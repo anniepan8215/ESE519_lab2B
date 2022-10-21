@@ -2,9 +2,9 @@
 
 
 ## LED
-The following link is the LED gif of our breadboard in action: 
+The following link is the LED gif of our breadboard in action:
 
- [](https://media.giphy.com/media/joMgdCdvrxvvOjSpzw/giphy.gif)
+(https://media.giphy.com/media/joMgdCdvrxvvOjSpzw/giphy.gif)
 
 ## PROPOSAL: Balanced Board
 - An outline of what you plan to build, and why you think it’s cool.
