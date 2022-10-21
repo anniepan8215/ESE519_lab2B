@@ -1,15 +1,13 @@
-# ESE519_lab2B
+# ESE519 lab2B
 
 
 ## LED
 
 
-## PROPOSAL
+## PROPOSAL: Balanced Board 
 - An outline of what you plan to build, and why you think it’s cool.
-
   - What we gonna do: 
 Using IMU to detect the title of the board and reflect it by the luminance of the LED located at 4 directions(corners). 
-
   - Why we do this: 
 This is the fundamental part of the drone, we plan to use it to keep the drone balance and measuring the degree of balance of the drone. 
 
