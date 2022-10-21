@@ -1,13 +1,15 @@
-# ESE519 lab2B
+# ESE519_lab2B
 
 
 ## LED
 
 
-## PROPOSAL: Balanced Board 
+## PROPOSAL
 - An outline of what you plan to build, and why you think it’s cool.
+
   - What we gonna do: 
 Using IMU to detect the title of the board and reflect it by the luminance of the LED located at 4 directions(corners). 
+
   - Why we do this: 
 This is the fundamental part of the drone, we plan to use it to keep the drone balance and measuring the degree of balance of the drone. 
 
@@ -19,7 +21,7 @@ This is the fundamental part of the drone, we plan to use it to keep the drone b
   - IMU: 
     - MPU6050 (may out of stock for Adafruit)[MPU6050](https://www.adafruit.com/product/3886)
     - (Available on Amazon for another version):[MPU60502](https://www.amazon.com/HiLetgo-MPU-6050-Accelerometer-Gyroscope-Converter/dp/B01DK83ZYQ?th=1)
-    - MMA8451[MMA8451](https://learn.adafruit.com/adafruit-mma8451-accelerometer-breakout)
+    - [MMA8451](https://learn.adafruit.com/adafruit-mma8451-accelerometer-breakout)
 
 - Any questions about your design or component selection.
 RP2040 only has two I2C ports (one on the QT connector, one on the breakout pads), but what if the final project we want to build needs more I2C or GPIO ports?
