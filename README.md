@@ -6,6 +6,29 @@ The following link is the LED gif of our breadboard in action:
 
 https://media.giphy.com/media/joMgdCdvrxvvOjSpzw/giphy.gif
 
+More detialed please check the following code
+
+```
+#include <stdio.h>
+#include <stdlib.h>
+#include "pico/stdlib.h"
+#define SDA_PIN 22
+
+int main(){
+    stdio_init_all();
+    gpio_init(SDA_PIN);
+    gpio_set_dir(SDA_PIN, GPIO_OUT);
+    while(1){
+        gpio_put(SDA_PIN,1);
+        sleep_ms(2000);
+        gpio_put(SDA_PIN,0);
+        sleep_ms(2000);
+    }
+    return 0;
+}
+
+```
+
 ## PROPOSAL: Balanced Board
 - An outline of what you plan to build, and why you think it’s cool.
 
