@@ -49,5 +49,5 @@ This is the fundamental part of the drone, we plan to use it to keep the drone b
     - [MMA8451](https://learn.adafruit.com/adafruit-mma8451-accelerometer-breakout)
 
 - Any questions about your design or component selection.
-RP2040 only has two I2C ports (one on the QT connector, one on the breakout pads), but what if the final project we want to build needs more I2C or GPIO ports?
+    - RP2040 only has two I2C ports (one on the QT connector, one on the breakout pads), but what if the final project we want to build needs more I2C or GPIO ports?
 
