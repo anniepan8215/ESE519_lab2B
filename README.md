@@ -1,6 +1,6 @@
 # ESE519_lab2B
 
-
+Contributor: [Xingqi Pan](https://github.com/anniepan8215), [Yuxuan Li](https://github.com/Yuxuan-Li295), [Yuxin Wang](https://github.com/Ariiees)
 ## LED
 The following link is the LED gif of our breadboard in action:
 
