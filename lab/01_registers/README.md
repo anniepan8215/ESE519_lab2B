@@ -61,5 +61,6 @@ void neopixel_set_rgb(uint32_t rgb) {
 }
 ```  
 
-The demo for this part is given as:
+The demo for this part is given as:  
+
 ![](https://github.com/anniepan8215/ESE519_lab2B/blob/main/Media/Part1.gif)
