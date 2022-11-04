@@ -1,8 +1,7 @@
-### TODO:
 
-Toggle the Qt Py's Neopixel LED when the BOOT button is pressed, using only direct register reads to access the boot button status. You may use the SDK to initialize the board and the pins, and the WS2812 example code to toggle the Neopixel. 
 
 `.\Code`: Question Q1 code <br>
+Modify neopixel.c and flashlight.c
 # Code Setup  
 
 In order to run the flashlight.c example code on your local machine:  
@@ -43,6 +42,17 @@ The structure for the main loop is described as follows:
 
 <img src="flashlightc.drawio.png" style="zoom:70%"> <br>  
 
+In order to direct use the register, we find the user bank IO register's start base address and add a offset to GPIO21_CTRL and find the immediate address that the boot button is corresponding to:
+
+```c
+ if (shifted_pin_21_state) { // poll every cycle, 0 = "pressed"
+            status.button_is_pressed = 0x00000000;
+        }
+        else {
+            status.button_is_pressed = 0x00000001;
+        }
+```   
+
 ## neopixel.c
 
 In this C file for part1, we mainly defien the corresponding pin for PIO, SM, FREQ and IS_RGBW. The group changes the pin value for the PIN and POWER_PIN into 11, 12 correspoindingly, in order to configure the neopixel properly, the line correspoinding to the changed code is given as follows:
@@ -51,6 +61,9 @@ In this C file for part1, we mainly defien the corresponding pin for PIO, SM, FR
 #define PIN         12
 #define POWER_PIN   11
 ```  
+
+The above part is regarding for SDK allowing us to specify other "target boards" besides the Pico by setting the PICO_BOARD environment variable to the name of the board header file. 
+
 Moreover, this c file also contains the function to convert RGB to GRB(encoded as a 24 binary number as expected by the NeoPixel).
 
 ```c
