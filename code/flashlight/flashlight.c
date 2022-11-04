@@ -5,6 +5,12 @@
 
 #define QTPY_BOOT_PIN 21
 
+volatile uint32_t* boot_pin_address;
+uint32_t full_gpio_register_value;
+uint32_t pin_21_selection_mask;
+uint32_t select_pin_state;
+uint32_t shifted_pin_21_state;
+
 typedef struct {
     uint32_t last_serial_byte;
     uint32_t button_is_pressed;
@@ -48,11 +54,20 @@ int main() {
                 status.light_color = 0x00ffffff;
                 break;
         }
-        if (gpio_get(QTPY_BOOT_PIN)) { // poll every cycle, 0 = "pressed"
+
+        boot_pin_address = (volatile uint32_t*)0xd0000004;
+        full_gpio_register_value = (uint32_t)*boot_pin_address;
+        pin_21_selection_mask = 1u << 21;
+        select_pin_state = full_gpio_register_value & pin_21_selection_mask;
+        shifted_pin_21_state = select_pin_state >> 21;
+
+        if (shifted_pin_21_state) { // poll every cycle, 0 = "pressed"
             status.button_is_pressed = 0x00000000;
-        } else {
+        }
+        else {
             status.button_is_pressed = 0x00000001;
         }
+      
         if (status.button_is_pressed) { // poll every cycle
             neopixel_set_rgb(status.light_color);
         } else {
