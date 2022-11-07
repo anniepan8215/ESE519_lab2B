@@ -8,10 +8,10 @@
 #include "hardware/clocks.h"
 
 #define ADDRESS_LENGTH 8
-#define MSG_LENGTH 4
+#define MSG_LENGTH 8
 
 char addr[8] = {'0'};
-char msg[4] = {'0'};
+char msg[8] = {'0'};
 ADDRESS hex_addr = 0;
 VALUE hex_msg = 0;
 VALUE value = 0;
@@ -51,7 +51,7 @@ int main(){
             value = register_read(hex_addr);
             printf("The value read out is %d\n",value);
             addr[8] = '0';
-            msg[4] ='0';
+            msg[8] ='0';
             hex_addr = 0;
             hex_msg = 0;
             value = 0;
