@@ -25,4 +25,4 @@ add_compile_options(-Wall
 
 # subdirectories:
 add_subdirectory(lab)
-add_subdirectory(code)
+# add_subdirectory(code)
