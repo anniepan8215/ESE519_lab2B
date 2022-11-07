@@ -4,8 +4,8 @@
 #define PIO         pio0
 #define SM          0
 #define FREQ        800000
-#define PIN         PICO_DEFAULT_WS2812_PIN
-#define POWER_PIN   PICO_DEFAULT_WS2812_POWER_PIN
+#define PIN         11
+#define POWER_PIN   12
 #define IS_RGBW     true  
 
 void neopixel_init() {
