@@ -11,16 +11,16 @@
 #define MSG_LENGTH 8 //32 bits input
 
 // initialize buffer
-char addr[8] = {'0'};
-char msg[8] = {'0'};
-ADDRESS hex_addr = 0;
-VALUE hex_msg = 0;
-VALUE value = 0;
-int i_addr = 0;
-int i_msg = 0;
+char addr[8] = {'0'}; // store 8 bytes hex number = 32 bits binary number
+char msg[8] = {'0'}; // store 8 bytes hex number = 32 bits binary number
+ADDRESS hex_addr = 0; // addr convertor
+VALUE hex_msg = 0; // msg convertor
+VALUE value = 0; 
+int i_addr = 0; //iterator
+int i_msg = 0; //iterator
 
 int main(){
-    stdio_init_all();
+    stdio_init_all(); //initialization
 
     while(true){
         printf("-----------\n");
