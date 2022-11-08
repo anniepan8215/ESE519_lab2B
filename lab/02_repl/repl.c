@@ -19,6 +19,19 @@ VALUE value = 0;
 int i_addr = 0; //iterator
 int i_msg = 0; //iterator
 
+uint16_t get_block(uint8_t *buffer) {
+  uint16_t buffer_index= 0;
+  while (true) {
+    int c = getchar_timeout_us(100);
+    if (c != PICO_ERROR_TIMEOUT && buffer_index < BUFFER_LENGTH) {
+      buffer[buffer_index++] = (c & 0xFF);
+    } else {
+      break;
+    }
+  }
+  return buffer_index;
+}
+
 int main(){
     stdio_init_all(); //initialization
 
@@ -28,11 +41,12 @@ int main(){
         if(i_addr < ADDRESS_LENGTH){
             printf("Input register address:\n");
             // read from keyboard and store to buffer
-            char c = getchar_timeout_us(1000);
-            if(c!= PICO_ERROR_TIMEOUT){
-                addr[i_addr] = c;
-                i_addr++;
-            }
+            // char c = getchar_timeout_us(1000);
+            // if(c!= PICO_ERROR_TIMEOUT){
+            //     addr[i_addr] = c;
+            //     i_addr++;
+            // }
+            
             continue;
         }
         if(i_msg < MSG_LENGTH){
