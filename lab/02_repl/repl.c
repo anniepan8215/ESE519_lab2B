@@ -7,9 +7,10 @@
 #include "hardware/pio.h"
 #include "hardware/clocks.h"
 
-#define ADDRESS_LENGTH 8
-#define MSG_LENGTH 8
+#define ADDRESS_LENGTH 8 //32 bits address
+#define MSG_LENGTH 8 //32 bits input
 
+// initialize buffer
 char addr[8] = {'0'};
 char msg[8] = {'0'};
 ADDRESS hex_addr = 0;
@@ -26,6 +27,7 @@ int main(){
         sleep_ms(1000);
         if(i_addr < ADDRESS_LENGTH){
             printf("Input register address:\n");
+            // read from keyboard and store to buffer
             char c = getchar_timeout_us(1000);
             if(c!= PICO_ERROR_TIMEOUT){
                 addr[i_addr] = c;
@@ -35,9 +37,12 @@ int main(){
         }
         if(i_msg < MSG_LENGTH){
             printf("Input value you want to write into the register:\n");
+            // read from keyboard and store to buffer
             char c = getchar_timeout_us(1000);
-            msg[i_msg] = c;
-            i_msg++;
+            if(c!= PICO_ERROR_TIMEOUT){
+                msg[i_msg] = c;
+                i_msg++;
+            }
             continue;
         }
         if(i_addr >= ADDRESS_LENGTH && i_msg >= MSG_LENGTH){
