@@ -13,15 +13,13 @@ Create a 'sequencer' that allows you to record BOOT button presses and play them
     - outputs: neopixel color, neopixel brightness, data over serial, register read/write commands
 
 -----
-# commands
+# Instructions
 | functions |command |
 | :--| :--  |
-| record |Running Python file 'main.py' and store the record sequence in 'test.txt'|
+| record |Running Python file 'main.py' and store the record sequence in 'test.txt', push the 'BOOT' button in RP2040|
 | replay |Replay by reading the file with 'rb' format and replay the recorded sequence of LED lighting|
-| read address|r \<address(8bits)\>|
-| write address|w \<address(8bits)\>|
-|Input gpio|< \<gpio>|
-|Output gpio|> \<gpio>|
+| read address|read from \<address(8bits)\>|
+| write address|write from \<address(8bits)\>|
 
 ### Design considerations:
 For a easier way reading address via serial, the group use 'line = recording.readline()[0:10]' to get the sequence with 1 or 0 in 'b' byte form, the drawback of the method is that it may introduce blocking time when reading from serial. After testing, the RP2040 board can basically replay the input sequence correctly within the given period of time designed by users. (Sequence: Green-> Red-> Blue-> White).
