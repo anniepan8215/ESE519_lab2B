@@ -10,39 +10,32 @@ CMakeFiles\elf2uf2.dir\main.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\inc
 CMakeFiles\elf2uf2.dir\main.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\tuple
 CMakeFiles\elf2uf2.dir\main.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\type_traits
 CMakeFiles\elf2uf2.dir\main.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\stdint.h
-CMakeFiles\elf2uf2.dir\main.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\xstddef
-CMakeFiles\elf2uf2.dir\main.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\stddef.h"
+CMakeFiles\elf2uf2.dir\main.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\cstddef
+CMakeFiles\elf2uf2.dir\main.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\xtr1common
 CMakeFiles\elf2uf2.dir\main.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\math.h"
 CMakeFiles\elf2uf2.dir\main.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\corecrt_math.h"
 CMakeFiles\elf2uf2.dir\main.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\corecrt_malloc.h"
-CMakeFiles\elf2uf2.dir\main.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\corecrt_search.h"
+CMakeFiles\elf2uf2.dir\main.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\limits.h
 CMakeFiles\elf2uf2.dir\main.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\yvals.h
 CMakeFiles\elf2uf2.dir\main.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\crtdbg.h"
 CMakeFiles\elf2uf2.dir\main.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\vcruntime_new.h
-CMakeFiles\elf2uf2.dir\main.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\crtdefs.h
-CMakeFiles\elf2uf2.dir\main.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\climits
-CMakeFiles\elf2uf2.dir\main.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\string.h"
-CMakeFiles\elf2uf2.dir\main.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\corecrt_memcpy_s.h"
-CMakeFiles\elf2uf2.dir\main.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\vcruntime_string.h
-CMakeFiles\elf2uf2.dir\main.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\utility
+CMakeFiles\elf2uf2.dir\main.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\cstring
+CMakeFiles\elf2uf2.dir\main.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\corecrt_memory.h"
+CMakeFiles\elf2uf2.dir\main.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\errno.h"
 CMakeFiles\elf2uf2.dir\main.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\xmemory
 CMakeFiles\elf2uf2.dir\main.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\limits
 CMakeFiles\elf2uf2.dir\main.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\float.h"
-CMakeFiles\elf2uf2.dir\main.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\cwchar
-CMakeFiles\elf2uf2.dir\main.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\corecrt_wconio.h"
-CMakeFiles\elf2uf2.dir\main.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\corecrt_wio.h"
+CMakeFiles\elf2uf2.dir\main.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\wchar.h"
+CMakeFiles\elf2uf2.dir\main.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\corecrt_wdirect.h"
+CMakeFiles\elf2uf2.dir\main.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\corecrt_share.h"
 CMakeFiles\elf2uf2.dir\main.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\corecrt_wtime.h"
 CMakeFiles\elf2uf2.dir\main.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\sys\types.h"
 CMakeFiles\elf2uf2.dir\main.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\intrin0.inl.h
-CMakeFiles\elf2uf2.dir\main.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\isa_availability.h
 CMakeFiles\elf2uf2.dir\main.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\exception
-CMakeFiles\elf2uf2.dir\main.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\malloc.h"
 CMakeFiles\elf2uf2.dir\main.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\eh.h
 CMakeFiles\elf2uf2.dir\main.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\corecrt_terminate.h"
 CMakeFiles\elf2uf2.dir\main.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\stdarg.h
-CMakeFiles\elf2uf2.dir\main.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\algorithm
 CMakeFiles\elf2uf2.dir\main.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\assert.h"
-CMakeFiles\elf2uf2.dir\main.cpp.obj: C:\Users\pico\pico-sdk\tools\elf2uf2\elf.h
 
 
 
@@ -62,27 +55,27 @@ D:\VS2022\VC\Tools\MSVC\14.33.31629\include\vadefs.h:
 
 D:\VS2022\VC\Tools\MSVC\14.33.31629\include\type_traits:
 
+D:\VS2022\VC\Tools\MSVC\14.33.31629\include\cstring:
+
 "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\corecrt.h":
 
 "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\corecrt_stdio_config.h":
-
-"C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\corecrt_wio.h":
 
 D:\VS2022\VC\Tools\MSVC\14.33.31629\include\limits:
 
 D:\VS2022\VC\Tools\MSVC\14.33.31629\include\stdint.h:
 
-"C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\malloc.h":
+"C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\corecrt_wdirect.h":
 
-D:\VS2022\VC\Tools\MSVC\14.33.31629\include\xstddef:
+D:\VS2022\VC\Tools\MSVC\14.33.31629\include\cstddef:
 
-"C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\stddef.h":
+D:\VS2022\VC\Tools\MSVC\14.33.31629\include\xtr1common:
 
 "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\math.h":
 
 "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\corecrt_malloc.h":
 
-"C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\corecrt_search.h":
+D:\VS2022\VC\Tools\MSVC\14.33.31629\include\limits.h:
 
 D:\VS2022\VC\Tools\MSVC\14.33.31629\include\yvals.h:
 
@@ -90,31 +83,21 @@ D:\VS2022\VC\Tools\MSVC\14.33.31629\include\yvals.h:
 
 D:\VS2022\VC\Tools\MSVC\14.33.31629\include\vcruntime_new.h:
 
-D:\VS2022\VC\Tools\MSVC\14.33.31629\include\exception:
+"C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\corecrt_memory.h":
 
-D:\VS2022\VC\Tools\MSVC\14.33.31629\include\crtdefs.h:
+"C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\errno.h":
 
-D:\VS2022\VC\Tools\MSVC\14.33.31629\include\algorithm:
-
-D:\VS2022\VC\Tools\MSVC\14.33.31629\include\climits:
-
-"C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\string.h":
-
-"C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\corecrt_memcpy_s.h":
-
-D:\VS2022\VC\Tools\MSVC\14.33.31629\include\vcruntime_string.h:
+D:\VS2022\VC\Tools\MSVC\14.33.31629\include\xmemory:
 
 "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\corecrt_terminate.h":
 
 "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\float.h":
 
-D:\VS2022\VC\Tools\MSVC\14.33.31629\include\utility:
+D:\VS2022\VC\Tools\MSVC\14.33.31629\include\exception:
 
-D:\VS2022\VC\Tools\MSVC\14.33.31629\include\xmemory:
+"C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\wchar.h":
 
-"C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\corecrt_wconio.h":
-
-D:\VS2022\VC\Tools\MSVC\14.33.31629\include\cwchar:
+"C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\corecrt_share.h":
 
 "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\corecrt_wtime.h":
 
@@ -122,10 +105,6 @@ D:\VS2022\VC\Tools\MSVC\14.33.31629\include\cwchar:
 
 D:\VS2022\VC\Tools\MSVC\14.33.31629\include\intrin0.inl.h:
 
-D:\VS2022\VC\Tools\MSVC\14.33.31629\include\isa_availability.h:
-
 D:\VS2022\VC\Tools\MSVC\14.33.31629\include\stdarg.h:
 
 "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\assert.h":
-
-C:\Users\pico\pico-sdk\tools\elf2uf2\elf.h:

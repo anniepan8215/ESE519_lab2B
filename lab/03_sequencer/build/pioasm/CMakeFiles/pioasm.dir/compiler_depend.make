@@ -3,28 +3,23 @@
 
 CMakeFiles\pioasm.dir\ada_output.cpp.obj: C:\Users\pico\pico-sdk\tools\pioasm\ada_output.cpp
 CMakeFiles\pioasm.dir\ada_output.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\yvals_core.h
-CMakeFiles\pioasm.dir\ada_output.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\sal.h
+CMakeFiles\pioasm.dir\ada_output.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\vcruntime.h
 CMakeFiles\pioasm.dir\ada_output.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\vadefs.h
-CMakeFiles\pioasm.dir\ada_output.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\xmemory
-CMakeFiles\pioasm.dir\ada_output.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\stdint.h
+CMakeFiles\pioasm.dir\ada_output.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\cstdint
 CMakeFiles\pioasm.dir\ada_output.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\cstdlib
-CMakeFiles\pioasm.dir\ada_output.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\corecrt_math.h"
+CMakeFiles\pioasm.dir\ada_output.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\math.h"
 CMakeFiles\pioasm.dir\ada_output.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\corecrt.h"
 CMakeFiles\pioasm.dir\ada_output.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\corecrt_malloc.h"
 CMakeFiles\pioasm.dir\ada_output.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\stddef.h"
-CMakeFiles\pioasm.dir\ada_output.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\corecrt_wstdlib.h"
 CMakeFiles\pioasm.dir\ada_output.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\cfloat
-CMakeFiles\pioasm.dir\ada_output.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\float.h"
 CMakeFiles\pioasm.dir\ada_output.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\cwchar
-CMakeFiles\pioasm.dir\ada_output.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\cstdio
-CMakeFiles\pioasm.dir\ada_output.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\corecrt_wstdio.h"
+CMakeFiles\pioasm.dir\ada_output.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\stdio.h"
 CMakeFiles\pioasm.dir\ada_output.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\corecrt_stdio_config.h"
 CMakeFiles\pioasm.dir\ada_output.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\corecrt_memcpy_s.h"
-CMakeFiles\pioasm.dir\ada_output.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\errno.h"
+CMakeFiles\pioasm.dir\ada_output.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\vcruntime_string.h
 CMakeFiles\pioasm.dir\ada_output.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\corecrt_wio.h"
-CMakeFiles\pioasm.dir\ada_output.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\corecrt_wstring.h"
 CMakeFiles\pioasm.dir\ada_output.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\sys\types.h"
-CMakeFiles\pioasm.dir\ada_output.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\intrin0.h
+CMakeFiles\pioasm.dir\ada_output.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\intrin0.inl.h
 CMakeFiles\pioasm.dir\ada_output.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\xstddef
 CMakeFiles\pioasm.dir\ada_output.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\xtr1common
 CMakeFiles\pioasm.dir\ada_output.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\exception
@@ -32,77 +27,76 @@ CMakeFiles\pioasm.dir\ada_output.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\in
 CMakeFiles\pioasm.dir\ada_output.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\vcruntime_new_debug.h
 CMakeFiles\pioasm.dir\ada_output.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\use_ansi.h
 CMakeFiles\pioasm.dir\ada_output.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\vcruntime_exception.h
-CMakeFiles\pioasm.dir\ada_output.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\corecrt_terminate.h"
+CMakeFiles\pioasm.dir\ada_output.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\eh.h
 CMakeFiles\pioasm.dir\ada_output.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\xutility
-CMakeFiles\pioasm.dir\ada_output.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\string.h"
+CMakeFiles\pioasm.dir\ada_output.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\cstring
+CMakeFiles\pioasm.dir\ada_output.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\corecrt_memory.h"
+CMakeFiles\pioasm.dir\ada_output.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\concepts
 CMakeFiles\pioasm.dir\ada_output.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\bit
 CMakeFiles\pioasm.dir\ada_output.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\istream
 CMakeFiles\pioasm.dir\ada_output.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\ostream
 CMakeFiles\pioasm.dir\ada_output.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\xlocnum
-CMakeFiles\pioasm.dir\ada_output.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\cmath
+CMakeFiles\pioasm.dir\ada_output.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\iosfwd
 CMakeFiles\pioasm.dir\ada_output.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\xiosbase
-CMakeFiles\pioasm.dir\ada_output.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\system_error
-CMakeFiles\pioasm.dir\ada_output.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\__msvc_system_error_abi.hpp
-CMakeFiles\pioasm.dir\ada_output.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\stdexcept
-CMakeFiles\pioasm.dir\ada_output.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\xpolymorphic_allocator.h
+CMakeFiles\pioasm.dir\ada_output.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\share.h"
+CMakeFiles\pioasm.dir\ada_output.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\cerrno
+CMakeFiles\pioasm.dir\ada_output.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\xstring
 CMakeFiles\pioasm.dir\ada_output.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\xerrc.h
 CMakeFiles\pioasm.dir\ada_output.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\atomic
 CMakeFiles\pioasm.dir\ada_output.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\xthreads.h
 CMakeFiles\pioasm.dir\ada_output.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\ctime
 CMakeFiles\pioasm.dir\ada_output.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\memory
-CMakeFiles\pioasm.dir\ada_output.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\vcruntime_typeinfo.h
+CMakeFiles\pioasm.dir\ada_output.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\typeinfo
 CMakeFiles\pioasm.dir\ada_output.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\xlocinfo
-CMakeFiles\pioasm.dir\ada_output.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\__msvc_xlocinfo_types.hpp
-CMakeFiles\pioasm.dir\ada_output.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\ctype.h"
-CMakeFiles\pioasm.dir\ada_output.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\clocale
+CMakeFiles\pioasm.dir\ada_output.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\cctype
+CMakeFiles\pioasm.dir\ada_output.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\locale.h"
 CMakeFiles\pioasm.dir\ada_output.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\vector
 CMakeFiles\pioasm.dir\ada_output.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\xtree
 
 
 CMakeFiles\pioasm.dir\c_sdk_output.cpp.obj: C:\Users\pico\pico-sdk\tools\pioasm\c_sdk_output.cpp
-CMakeFiles\pioasm.dir\c_sdk_output.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\yvals_core.h
 CMakeFiles\pioasm.dir\c_sdk_output.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\vcruntime.h
+CMakeFiles\pioasm.dir\c_sdk_output.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\vadefs.h
 CMakeFiles\pioasm.dir\c_sdk_output.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\cstdint
 CMakeFiles\pioasm.dir\c_sdk_output.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\cstdlib
 CMakeFiles\pioasm.dir\c_sdk_output.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\corecrt_math.h"
 CMakeFiles\pioasm.dir\c_sdk_output.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\corecrt_malloc.h"
 CMakeFiles\pioasm.dir\c_sdk_output.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\stddef.h"
 CMakeFiles\pioasm.dir\c_sdk_output.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\cfloat
-CMakeFiles\pioasm.dir\c_sdk_output.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\float.h"
 CMakeFiles\pioasm.dir\c_sdk_output.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\cwchar
-CMakeFiles\pioasm.dir\c_sdk_output.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\cstdio
 CMakeFiles\pioasm.dir\c_sdk_output.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\stdio.h"
-CMakeFiles\pioasm.dir\c_sdk_output.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\corecrt_stdio_config.h"
+CMakeFiles\pioasm.dir\c_sdk_output.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\corecrt_wstdio.h"
 CMakeFiles\pioasm.dir\c_sdk_output.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\corecrt_memcpy_s.h"
 CMakeFiles\pioasm.dir\c_sdk_output.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\errno.h"
-CMakeFiles\pioasm.dir\c_sdk_output.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\corecrt_wconio.h"
-CMakeFiles\pioasm.dir\c_sdk_output.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\corecrt_wio.h"
+CMakeFiles\pioasm.dir\c_sdk_output.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\vcruntime_string.h
+CMakeFiles\pioasm.dir\c_sdk_output.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\corecrt_wdirect.h"
+CMakeFiles\pioasm.dir\c_sdk_output.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\corecrt_share.h"
 CMakeFiles\pioasm.dir\c_sdk_output.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\corecrt_wstring.h"
 CMakeFiles\pioasm.dir\c_sdk_output.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\sys\types.h"
-CMakeFiles\pioasm.dir\c_sdk_output.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\intrin0.h
+CMakeFiles\pioasm.dir\c_sdk_output.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\intrin0.inl.h
 CMakeFiles\pioasm.dir\c_sdk_output.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\xstddef
-CMakeFiles\pioasm.dir\c_sdk_output.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\xtr1common
+CMakeFiles\pioasm.dir\c_sdk_output.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\cstddef
+CMakeFiles\pioasm.dir\c_sdk_output.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\initializer_list
 CMakeFiles\pioasm.dir\c_sdk_output.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\exception
 CMakeFiles\pioasm.dir\c_sdk_output.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\yvals.h
 CMakeFiles\pioasm.dir\c_sdk_output.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\vcruntime_new_debug.h
 CMakeFiles\pioasm.dir\c_sdk_output.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\use_ansi.h
+CMakeFiles\pioasm.dir\c_sdk_output.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\type_traits
 CMakeFiles\pioasm.dir\c_sdk_output.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\vcruntime_exception.h
 CMakeFiles\pioasm.dir\c_sdk_output.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\corecrt_terminate.h"
 CMakeFiles\pioasm.dir\c_sdk_output.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\xutility
 CMakeFiles\pioasm.dir\c_sdk_output.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\string.h"
-CMakeFiles\pioasm.dir\c_sdk_output.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\corecrt_memory.h"
 CMakeFiles\pioasm.dir\c_sdk_output.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\concepts
-CMakeFiles\pioasm.dir\c_sdk_output.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\bit
+CMakeFiles\pioasm.dir\c_sdk_output.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\compare
 CMakeFiles\pioasm.dir\c_sdk_output.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\istream
 CMakeFiles\pioasm.dir\c_sdk_output.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\ostream
+CMakeFiles\pioasm.dir\c_sdk_output.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\ios
 CMakeFiles\pioasm.dir\c_sdk_output.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\xlocnum
-CMakeFiles\pioasm.dir\c_sdk_output.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\cmath
 CMakeFiles\pioasm.dir\c_sdk_output.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\iosfwd
 CMakeFiles\pioasm.dir\c_sdk_output.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\xiosbase
-CMakeFiles\pioasm.dir\c_sdk_output.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\share.h"
+CMakeFiles\pioasm.dir\c_sdk_output.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\system_error
 CMakeFiles\pioasm.dir\c_sdk_output.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\__msvc_system_error_abi.hpp
 CMakeFiles\pioasm.dir\c_sdk_output.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\stdexcept
-CMakeFiles\pioasm.dir\c_sdk_output.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\xstring
 CMakeFiles\pioasm.dir\c_sdk_output.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\xerrc.h
 CMakeFiles\pioasm.dir\c_sdk_output.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\atomic
 CMakeFiles\pioasm.dir\c_sdk_output.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\xthreads.h
@@ -122,119 +116,112 @@ CMakeFiles\pioasm.dir\gen\lexer.cpp.obj: C:\Users\pico\pico-sdk\tools\pioasm\gen
 CMakeFiles\pioasm.dir\gen\lexer.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\corecrt.h"
 CMakeFiles\pioasm.dir\gen\lexer.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\sal.h
 CMakeFiles\pioasm.dir\gen\lexer.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\vadefs.h
-CMakeFiles\pioasm.dir\gen\lexer.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\corecrt_wstdio.h"
 CMakeFiles\pioasm.dir\gen\lexer.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\corecrt_memory.h"
 CMakeFiles\pioasm.dir\gen\lexer.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\errno.h"
 CMakeFiles\pioasm.dir\gen\lexer.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\vcruntime_string.h
 CMakeFiles\pioasm.dir\gen\lexer.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\corecrt_malloc.h"
-CMakeFiles\pioasm.dir\gen\lexer.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\corecrt_search.h"
-CMakeFiles\pioasm.dir\gen\lexer.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\corecrt_wstdlib.h"
+CMakeFiles\pioasm.dir\gen\lexer.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\stddef.h"
 CMakeFiles\pioasm.dir\gen\lexer.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\yvals_core.h
-CMakeFiles\pioasm.dir\gen\lexer.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\xkeycheck.h
 CMakeFiles\pioasm.dir\gen\lexer.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\cstdlib
-CMakeFiles\pioasm.dir\gen\lexer.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\corecrt_math.h"
+CMakeFiles\pioasm.dir\gen\lexer.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\math.h"
 CMakeFiles\pioasm.dir\gen\lexer.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\string
-CMakeFiles\pioasm.dir\gen\lexer.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\xstring
-CMakeFiles\pioasm.dir\gen\lexer.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\yvals.h
-CMakeFiles\pioasm.dir\gen\lexer.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\vcruntime_new_debug.h
+CMakeFiles\pioasm.dir\gen\lexer.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\iosfwd
+CMakeFiles\pioasm.dir\gen\lexer.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\crtdbg.h"
+CMakeFiles\pioasm.dir\gen\lexer.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\vcruntime_new.h
 CMakeFiles\pioasm.dir\gen\lexer.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\use_ansi.h
 CMakeFiles\pioasm.dir\gen\lexer.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\cwchar
 CMakeFiles\pioasm.dir\gen\lexer.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\corecrt_wconio.h"
-CMakeFiles\pioasm.dir\gen\lexer.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\corecrt_wdirect.h"
-CMakeFiles\pioasm.dir\gen\lexer.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\corecrt_share.h"
+CMakeFiles\pioasm.dir\gen\lexer.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\corecrt_wio.h"
 CMakeFiles\pioasm.dir\gen\lexer.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\corecrt_wtime.h"
 CMakeFiles\pioasm.dir\gen\lexer.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\sys\types.h"
 CMakeFiles\pioasm.dir\gen\lexer.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\cstddef
-CMakeFiles\pioasm.dir\gen\lexer.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\xtr1common
-CMakeFiles\pioasm.dir\gen\lexer.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\xmemory
-CMakeFiles\pioasm.dir\gen\lexer.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\limits
-CMakeFiles\pioasm.dir\gen\lexer.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\float.h"
+CMakeFiles\pioasm.dir\gen\lexer.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\initializer_list
+CMakeFiles\pioasm.dir\gen\lexer.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\cstdint
+CMakeFiles\pioasm.dir\gen\lexer.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\cfloat
 CMakeFiles\pioasm.dir\gen\lexer.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\intrin0.inl.h
 CMakeFiles\pioasm.dir\gen\lexer.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\exception
 CMakeFiles\pioasm.dir\gen\lexer.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\type_traits
-CMakeFiles\pioasm.dir\gen\lexer.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\vcruntime_exception.h
 CMakeFiles\pioasm.dir\gen\lexer.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\corecrt_terminate.h"
-CMakeFiles\pioasm.dir\gen\lexer.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\xatomic.h
-CMakeFiles\pioasm.dir\gen\lexer.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\utility
+CMakeFiles\pioasm.dir\gen\lexer.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\xutility
+CMakeFiles\pioasm.dir\gen\lexer.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\concepts
 CMakeFiles\pioasm.dir\gen\lexer.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\bit
 CMakeFiles\pioasm.dir\gen\lexer.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\ctype.h"
 CMakeFiles\pioasm.dir\gen\lexer.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\algorithm
 CMakeFiles\pioasm.dir\gen\lexer.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\fstream
-CMakeFiles\pioasm.dir\gen\lexer.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\istream
-CMakeFiles\pioasm.dir\gen\lexer.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\ios
+CMakeFiles\pioasm.dir\gen\lexer.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\ostream
 CMakeFiles\pioasm.dir\gen\lexer.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\xlocnum
 CMakeFiles\pioasm.dir\gen\lexer.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\xiosbase
-CMakeFiles\pioasm.dir\gen\lexer.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\share.h"
 CMakeFiles\pioasm.dir\gen\lexer.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\system_error
-CMakeFiles\pioasm.dir\gen\lexer.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\stdexcept
+CMakeFiles\pioasm.dir\gen\lexer.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\__msvc_system_error_abi.hpp
 CMakeFiles\pioasm.dir\gen\lexer.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\xerrc.h
-CMakeFiles\pioasm.dir\gen\lexer.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\xatomic_wait.h
-CMakeFiles\pioasm.dir\gen\lexer.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\xtimec.h
-CMakeFiles\pioasm.dir\gen\lexer.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\time.h"
+CMakeFiles\pioasm.dir\gen\lexer.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\atomic
+CMakeFiles\pioasm.dir\gen\lexer.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\xthreads.h
+CMakeFiles\pioasm.dir\gen\lexer.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\ctime
 CMakeFiles\pioasm.dir\gen\lexer.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\memory
-CMakeFiles\pioasm.dir\gen\lexer.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\vcruntime_typeinfo.h
+CMakeFiles\pioasm.dir\gen\lexer.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\typeinfo
 CMakeFiles\pioasm.dir\gen\lexer.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\xlocinfo
+CMakeFiles\pioasm.dir\gen\lexer.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\__msvc_xlocinfo_types.hpp
 CMakeFiles\pioasm.dir\gen\lexer.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\clocale
-CMakeFiles\pioasm.dir\gen\lexer.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\locale.h"
-CMakeFiles\pioasm.dir\gen\lexer.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\map
 CMakeFiles\pioasm.dir\gen\lexer.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\xtree
 CMakeFiles\pioasm.dir\gen\lexer.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\iostream
 CMakeFiles\pioasm.dir\gen\lexer.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\assert.h"
 
 
 CMakeFiles\pioasm.dir\gen\parser.cpp.obj: C:\Users\pico\pico-sdk\tools\pioasm\gen\parser.cpp
-CMakeFiles\pioasm.dir\gen\parser.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\string
-CMakeFiles\pioasm.dir\gen\parser.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\vcruntime.h
+CMakeFiles\pioasm.dir\gen\parser.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\yvals_core.h
+CMakeFiles\pioasm.dir\gen\parser.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\sal.h
 CMakeFiles\pioasm.dir\gen\parser.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\vadefs.h
 CMakeFiles\pioasm.dir\gen\parser.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\iosfwd
 CMakeFiles\pioasm.dir\gen\parser.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\corecrt.h"
 CMakeFiles\pioasm.dir\gen\parser.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\vcruntime_new.h
 CMakeFiles\pioasm.dir\gen\parser.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\use_ansi.h
 CMakeFiles\pioasm.dir\gen\parser.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\stdio.h"
-CMakeFiles\pioasm.dir\gen\parser.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\corecrt_wstdio.h"
+CMakeFiles\pioasm.dir\gen\parser.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\corecrt_stdio_config.h"
 CMakeFiles\pioasm.dir\gen\parser.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\string.h"
 CMakeFiles\pioasm.dir\gen\parser.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\corecrt_memory.h"
-CMakeFiles\pioasm.dir\gen\parser.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\errno.h"
+CMakeFiles\pioasm.dir\gen\parser.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\corecrt_memcpy_s.h"
+CMakeFiles\pioasm.dir\gen\parser.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\vcruntime_string.h
 CMakeFiles\pioasm.dir\gen\parser.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\wchar.h"
-CMakeFiles\pioasm.dir\gen\parser.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\corecrt_wconio.h"
 CMakeFiles\pioasm.dir\gen\parser.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\corecrt_wio.h"
+CMakeFiles\pioasm.dir\gen\parser.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\corecrt_share.h"
 CMakeFiles\pioasm.dir\gen\parser.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\corecrt_wstdlib.h"
-CMakeFiles\pioasm.dir\gen\parser.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\sys\stat.h"
+CMakeFiles\pioasm.dir\gen\parser.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\sys\types.h"
 CMakeFiles\pioasm.dir\gen\parser.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\cstddef
 CMakeFiles\pioasm.dir\gen\parser.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\xtr1common
 CMakeFiles\pioasm.dir\gen\parser.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\math.h"
 CMakeFiles\pioasm.dir\gen\parser.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\corecrt_math.h"
-CMakeFiles\pioasm.dir\gen\parser.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\limits.h
+CMakeFiles\pioasm.dir\gen\parser.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\corecrt_malloc.h"
 CMakeFiles\pioasm.dir\gen\parser.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\cstdint
-CMakeFiles\pioasm.dir\gen\parser.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\limits
-CMakeFiles\pioasm.dir\gen\parser.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\float.h"
+CMakeFiles\pioasm.dir\gen\parser.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\stdint.h
+CMakeFiles\pioasm.dir\gen\parser.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\cfloat
 CMakeFiles\pioasm.dir\gen\parser.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\intrin0.h
-CMakeFiles\pioasm.dir\gen\parser.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\intrin0.inl.h
 CMakeFiles\pioasm.dir\gen\parser.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\exception
 CMakeFiles\pioasm.dir\gen\parser.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\type_traits
 CMakeFiles\pioasm.dir\gen\parser.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\vcruntime_exception.h
 CMakeFiles\pioasm.dir\gen\parser.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\corecrt_terminate.h"
-CMakeFiles\pioasm.dir\gen\parser.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\xatomic.h
-CMakeFiles\pioasm.dir\gen\parser.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\utility
+CMakeFiles\pioasm.dir\gen\parser.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\xutility
 CMakeFiles\pioasm.dir\gen\parser.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\concepts
 CMakeFiles\pioasm.dir\gen\parser.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\bit
 CMakeFiles\pioasm.dir\gen\parser.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\ctype.h"
 CMakeFiles\pioasm.dir\gen\parser.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\istream
-CMakeFiles\pioasm.dir\gen\parser.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\ios
+CMakeFiles\pioasm.dir\gen\parser.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\ostream
 CMakeFiles\pioasm.dir\gen\parser.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\xlocnum
+CMakeFiles\pioasm.dir\gen\parser.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\cmath
 CMakeFiles\pioasm.dir\gen\parser.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\xiosbase
+CMakeFiles\pioasm.dir\gen\parser.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\share.h"
 CMakeFiles\pioasm.dir\gen\parser.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\system_error
 CMakeFiles\pioasm.dir\gen\parser.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\cerrno
+CMakeFiles\pioasm.dir\gen\parser.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\stdexcept
 CMakeFiles\pioasm.dir\gen\parser.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\xerrc.h
-CMakeFiles\pioasm.dir\gen\parser.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\xatomic_wait.h
-CMakeFiles\pioasm.dir\gen\parser.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\xtimec.h
+CMakeFiles\pioasm.dir\gen\parser.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\atomic
+CMakeFiles\pioasm.dir\gen\parser.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\xthreads.h
 CMakeFiles\pioasm.dir\gen\parser.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\ctime
 CMakeFiles\pioasm.dir\gen\parser.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\memory
-CMakeFiles\pioasm.dir\gen\parser.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\typeinfo
+CMakeFiles\pioasm.dir\gen\parser.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\vcruntime_typeinfo.h
 CMakeFiles\pioasm.dir\gen\parser.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\xlocinfo
 CMakeFiles\pioasm.dir\gen\parser.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\__msvc_xlocinfo_types.hpp
 CMakeFiles\pioasm.dir\gen\parser.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\locale.h"
-CMakeFiles\pioasm.dir\gen\parser.cpp.obj: C:\Users\pico\pico-sdk\tools\pioasm\pio_types.h
+CMakeFiles\pioasm.dir\gen\parser.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\map
 CMakeFiles\pioasm.dir\gen\parser.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\xtree
 CMakeFiles\pioasm.dir\gen\parser.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\iostream
 CMakeFiles\pioasm.dir\gen\parser.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\assert.h"
@@ -242,9 +229,9 @@ CMakeFiles\pioasm.dir\gen\parser.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\in
 
 
 CMakeFiles\pioasm.dir\hex_output.cpp.obj: C:\Users\pico\pico-sdk\tools\pioasm\hex_output.cpp
-CMakeFiles\pioasm.dir\hex_output.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\yvals_core.h
 CMakeFiles\pioasm.dir\hex_output.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\vcruntime.h
 CMakeFiles\pioasm.dir\hex_output.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\vadefs.h
+CMakeFiles\pioasm.dir\hex_output.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\cstdint
 CMakeFiles\pioasm.dir\hex_output.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\cstdlib
 CMakeFiles\pioasm.dir\hex_output.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\corecrt_math.h"
 CMakeFiles\pioasm.dir\hex_output.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\corecrt.h"
@@ -253,14 +240,12 @@ CMakeFiles\pioasm.dir\hex_output.cpp.obj: "C:\Program Files (x86)\Windows Kits\1
 CMakeFiles\pioasm.dir\hex_output.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\cfloat
 CMakeFiles\pioasm.dir\hex_output.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\climits
 CMakeFiles\pioasm.dir\hex_output.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\cwchar
-CMakeFiles\pioasm.dir\hex_output.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\cstdio
+CMakeFiles\pioasm.dir\hex_output.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\stdio.h"
 CMakeFiles\pioasm.dir\hex_output.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\corecrt_wstdio.h"
 CMakeFiles\pioasm.dir\hex_output.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\corecrt_memcpy_s.h"
 CMakeFiles\pioasm.dir\hex_output.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\errno.h"
-CMakeFiles\pioasm.dir\hex_output.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\vcruntime_string.h
-CMakeFiles\pioasm.dir\hex_output.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\corecrt_wctype.h"
+CMakeFiles\pioasm.dir\hex_output.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\corecrt_wconio.h"
 CMakeFiles\pioasm.dir\hex_output.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\corecrt_wio.h"
-CMakeFiles\pioasm.dir\hex_output.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\corecrt_share.h"
 CMakeFiles\pioasm.dir\hex_output.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\corecrt_wstring.h"
 CMakeFiles\pioasm.dir\hex_output.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\sys\types.h"
 CMakeFiles\pioasm.dir\hex_output.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\intrin0.inl.h
@@ -270,8 +255,9 @@ CMakeFiles\pioasm.dir\hex_output.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\in
 CMakeFiles\pioasm.dir\hex_output.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\crtdbg.h"
 CMakeFiles\pioasm.dir\hex_output.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\vcruntime_new.h
 CMakeFiles\pioasm.dir\hex_output.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\use_ansi.h
+CMakeFiles\pioasm.dir\hex_output.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\vcruntime_exception.h
 CMakeFiles\pioasm.dir\hex_output.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\eh.h
-CMakeFiles\pioasm.dir\hex_output.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\corecrt_terminate.h"
+CMakeFiles\pioasm.dir\hex_output.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\xutility
 CMakeFiles\pioasm.dir\hex_output.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\cstring
 CMakeFiles\pioasm.dir\hex_output.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\corecrt_memory.h"
 CMakeFiles\pioasm.dir\hex_output.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\concepts
@@ -279,146 +265,126 @@ CMakeFiles\pioasm.dir\hex_output.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\in
 CMakeFiles\pioasm.dir\hex_output.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\xtree
 CMakeFiles\pioasm.dir\hex_output.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\xnode_handle.h
 CMakeFiles\pioasm.dir\hex_output.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\xstring
-CMakeFiles\pioasm.dir\hex_output.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\iosfwd
 CMakeFiles\pioasm.dir\hex_output.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\ctype.h"
 CMakeFiles\pioasm.dir\hex_output.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\typeinfo
 CMakeFiles\pioasm.dir\hex_output.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\vcruntime_typeinfo.h
 CMakeFiles\pioasm.dir\hex_output.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\xatomic_wait.h
-CMakeFiles\pioasm.dir\hex_output.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\xtimec.h
+CMakeFiles\pioasm.dir\hex_output.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\xthreads.h
 CMakeFiles\pioasm.dir\hex_output.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\ctime
-CMakeFiles\pioasm.dir\hex_output.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\istream
 CMakeFiles\pioasm.dir\hex_output.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\ostream
-CMakeFiles\pioasm.dir\hex_output.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\xlocnum
+CMakeFiles\pioasm.dir\hex_output.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\ios
 CMakeFiles\pioasm.dir\hex_output.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\xiosbase
 CMakeFiles\pioasm.dir\hex_output.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\share.h"
-CMakeFiles\pioasm.dir\hex_output.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\__msvc_system_error_abi.hpp
+CMakeFiles\pioasm.dir\hex_output.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\system_error
 CMakeFiles\pioasm.dir\hex_output.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\stdexcept
 CMakeFiles\pioasm.dir\hex_output.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\xerrc.h
 CMakeFiles\pioasm.dir\hex_output.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\xfacet
-CMakeFiles\pioasm.dir\hex_output.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\xlocinfo
+CMakeFiles\pioasm.dir\hex_output.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\__msvc_xlocinfo_types.hpp
 CMakeFiles\pioasm.dir\hex_output.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\clocale
-CMakeFiles\pioasm.dir\hex_output.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\locale.h"
 
 
 CMakeFiles\pioasm.dir\main.cpp.obj: C:\Users\pico\pico-sdk\tools\pioasm\main.cpp
 CMakeFiles\pioasm.dir\main.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\yvals_core.h
-CMakeFiles\pioasm.dir\main.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\vcruntime.h
+CMakeFiles\pioasm.dir\main.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\sal.h
 CMakeFiles\pioasm.dir\main.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\vadefs.h
-CMakeFiles\pioasm.dir\main.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\xkeycheck.h
-CMakeFiles\pioasm.dir\main.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\ostream
 CMakeFiles\pioasm.dir\main.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\xlocnum
-CMakeFiles\pioasm.dir\main.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\climits
-CMakeFiles\pioasm.dir\main.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\cmath
-CMakeFiles\pioasm.dir\main.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\corecrt.h"
+CMakeFiles\pioasm.dir\main.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\limits.h
 CMakeFiles\pioasm.dir\main.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\vcruntime_new.h
 CMakeFiles\pioasm.dir\main.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\use_ansi.h
-CMakeFiles\pioasm.dir\main.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\cstdlib
 CMakeFiles\pioasm.dir\main.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\math.h"
 CMakeFiles\pioasm.dir\main.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\corecrt_math.h"
 CMakeFiles\pioasm.dir\main.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\corecrt_malloc.h"
 CMakeFiles\pioasm.dir\main.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\stddef.h"
-CMakeFiles\pioasm.dir\main.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\xtr1common
 CMakeFiles\pioasm.dir\main.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\intrin0.inl.h
 CMakeFiles\pioasm.dir\main.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\cstring
 CMakeFiles\pioasm.dir\main.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\corecrt_memory.h"
 CMakeFiles\pioasm.dir\main.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\errno.h"
 CMakeFiles\pioasm.dir\main.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\type_traits
-CMakeFiles\pioasm.dir\main.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\cstdint
-CMakeFiles\pioasm.dir\main.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\xstddef
-CMakeFiles\pioasm.dir\main.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\bit
-CMakeFiles\pioasm.dir\main.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\limits
+CMakeFiles\pioasm.dir\main.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\stdint.h
+CMakeFiles\pioasm.dir\main.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\cstddef
+CMakeFiles\pioasm.dir\main.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\compare
+CMakeFiles\pioasm.dir\main.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\isa_availability.h
 CMakeFiles\pioasm.dir\main.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\float.h"
 CMakeFiles\pioasm.dir\main.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\cstdio
-CMakeFiles\pioasm.dir\main.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\stdio.h"
-CMakeFiles\pioasm.dir\main.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\corecrt_stdio_config.h"
+CMakeFiles\pioasm.dir\main.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\corecrt_wstdio.h"
 CMakeFiles\pioasm.dir\main.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\corecrt_wconio.h"
-CMakeFiles\pioasm.dir\main.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\corecrt_wdirect.h"
-CMakeFiles\pioasm.dir\main.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\corecrt_share.h"
-CMakeFiles\pioasm.dir\main.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\corecrt_wtime.h"
+CMakeFiles\pioasm.dir\main.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\corecrt_wio.h"
 CMakeFiles\pioasm.dir\main.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\sys\types.h"
-CMakeFiles\pioasm.dir\main.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\iosfwd
 CMakeFiles\pioasm.dir\main.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\xiosbase
 CMakeFiles\pioasm.dir\main.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\system_error
-CMakeFiles\pioasm.dir\main.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\cerrno
-CMakeFiles\pioasm.dir\main.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\exception
+CMakeFiles\pioasm.dir\main.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\stdexcept
+CMakeFiles\pioasm.dir\main.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\malloc.h"
 CMakeFiles\pioasm.dir\main.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\eh.h
-CMakeFiles\pioasm.dir\main.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\xmemory
-CMakeFiles\pioasm.dir\main.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\xatomic.h
+CMakeFiles\pioasm.dir\main.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\new
 CMakeFiles\pioasm.dir\main.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\xerrc.h
 CMakeFiles\pioasm.dir\main.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\xatomic_wait.h
-CMakeFiles\pioasm.dir\main.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\xthreads.h
-CMakeFiles\pioasm.dir\main.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\ctime
+CMakeFiles\pioasm.dir\main.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\xtimec.h
 CMakeFiles\pioasm.dir\main.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\time.h"
 CMakeFiles\pioasm.dir\main.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\memory
-CMakeFiles\pioasm.dir\main.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\typeinfo
+CMakeFiles\pioasm.dir\main.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\vcruntime_typeinfo.h
 CMakeFiles\pioasm.dir\main.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\xlocinfo
 CMakeFiles\pioasm.dir\main.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\cctype
 CMakeFiles\pioasm.dir\main.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\locale.h"
 CMakeFiles\pioasm.dir\main.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\algorithm
 CMakeFiles\pioasm.dir\main.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\string
-CMakeFiles\pioasm.dir\main.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\map
 CMakeFiles\pioasm.dir\main.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\xtree
 CMakeFiles\pioasm.dir\main.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\assert.h"
 
 
 CMakeFiles\pioasm.dir\pio_assembler.cpp.obj: C:\Users\pico\pico-sdk\tools\pioasm\pio_assembler.cpp
 CMakeFiles\pioasm.dir\pio_assembler.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\yvals_core.h
-CMakeFiles\pioasm.dir\pio_assembler.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\sal.h
+CMakeFiles\pioasm.dir\pio_assembler.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\vcruntime.h
 CMakeFiles\pioasm.dir\pio_assembler.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\vadefs.h
 CMakeFiles\pioasm.dir\pio_assembler.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\corecrt.h"
-CMakeFiles\pioasm.dir\pio_assembler.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\corecrt_stdio_config.h"
+CMakeFiles\pioasm.dir\pio_assembler.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\corecrt_wstdio.h"
 CMakeFiles\pioasm.dir\pio_assembler.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\iosfwd
-CMakeFiles\pioasm.dir\pio_assembler.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\crtdbg.h"
-CMakeFiles\pioasm.dir\pio_assembler.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\vcruntime_new.h
-CMakeFiles\pioasm.dir\pio_assembler.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\crtdefs.h
-CMakeFiles\pioasm.dir\pio_assembler.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\cstring
+CMakeFiles\pioasm.dir\pio_assembler.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\yvals.h
+CMakeFiles\pioasm.dir\pio_assembler.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\vcruntime_new_debug.h
+CMakeFiles\pioasm.dir\pio_assembler.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\use_ansi.h
 CMakeFiles\pioasm.dir\pio_assembler.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\string.h"
 CMakeFiles\pioasm.dir\pio_assembler.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\corecrt_memory.h"
 CMakeFiles\pioasm.dir\pio_assembler.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\corecrt_memcpy_s.h"
-CMakeFiles\pioasm.dir\pio_assembler.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\errno.h"
+CMakeFiles\pioasm.dir\pio_assembler.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\vcruntime_string.h
 CMakeFiles\pioasm.dir\pio_assembler.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\wchar.h"
 CMakeFiles\pioasm.dir\pio_assembler.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\corecrt_wconio.h"
-CMakeFiles\pioasm.dir\pio_assembler.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\corecrt_wdirect.h"
-CMakeFiles\pioasm.dir\pio_assembler.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\corecrt_share.h"
+CMakeFiles\pioasm.dir\pio_assembler.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\corecrt_wio.h"
 CMakeFiles\pioasm.dir\pio_assembler.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\corecrt_wstdlib.h"
 CMakeFiles\pioasm.dir\pio_assembler.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\sys\types.h"
 CMakeFiles\pioasm.dir\pio_assembler.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\cstddef
 CMakeFiles\pioasm.dir\pio_assembler.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\xtr1common
 CMakeFiles\pioasm.dir\pio_assembler.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\math.h"
-CMakeFiles\pioasm.dir\pio_assembler.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\corecrt_malloc.h"
-CMakeFiles\pioasm.dir\pio_assembler.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\corecrt_search.h"
+CMakeFiles\pioasm.dir\pio_assembler.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\corecrt_math.h"
+CMakeFiles\pioasm.dir\pio_assembler.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\limits.h
 CMakeFiles\pioasm.dir\pio_assembler.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\climits
-CMakeFiles\pioasm.dir\pio_assembler.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\type_traits
-CMakeFiles\pioasm.dir\pio_assembler.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\stdint.h
-CMakeFiles\pioasm.dir\pio_assembler.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\bit
-CMakeFiles\pioasm.dir\pio_assembler.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\intrin0.inl.h
+CMakeFiles\pioasm.dir\pio_assembler.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\cstdint
+CMakeFiles\pioasm.dir\pio_assembler.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\compare
+CMakeFiles\pioasm.dir\pio_assembler.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\intrin0.h
 CMakeFiles\pioasm.dir\pio_assembler.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\limits
 CMakeFiles\pioasm.dir\pio_assembler.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\float.h"
 CMakeFiles\pioasm.dir\pio_assembler.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\algorithm
-CMakeFiles\pioasm.dir\pio_assembler.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\new
-CMakeFiles\pioasm.dir\pio_assembler.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\malloc.h"
+CMakeFiles\pioasm.dir\pio_assembler.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\xmemory
+CMakeFiles\pioasm.dir\pio_assembler.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\exception
 CMakeFiles\pioasm.dir\pio_assembler.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\eh.h
 CMakeFiles\pioasm.dir\pio_assembler.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\tuple
 CMakeFiles\pioasm.dir\pio_assembler.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\string
-CMakeFiles\pioasm.dir\pio_assembler.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\xpolymorphic_allocator.h
+CMakeFiles\pioasm.dir\pio_assembler.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\xstring
 CMakeFiles\pioasm.dir\pio_assembler.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\ctype.h"
 CMakeFiles\pioasm.dir\pio_assembler.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\istream
 CMakeFiles\pioasm.dir\pio_assembler.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\ostream
 CMakeFiles\pioasm.dir\pio_assembler.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\xlocnum
 CMakeFiles\pioasm.dir\pio_assembler.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\xiosbase
-CMakeFiles\pioasm.dir\pio_assembler.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\share.h"
-CMakeFiles\pioasm.dir\pio_assembler.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\__msvc_system_error_abi.hpp
-CMakeFiles\pioasm.dir\pio_assembler.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\stdexcept
-CMakeFiles\pioasm.dir\pio_assembler.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\atomic
-CMakeFiles\pioasm.dir\pio_assembler.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\xthreads.h
-CMakeFiles\pioasm.dir\pio_assembler.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\ctime
+CMakeFiles\pioasm.dir\pio_assembler.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\system_error
+CMakeFiles\pioasm.dir\pio_assembler.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\cerrno
+CMakeFiles\pioasm.dir\pio_assembler.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\xerrc.h
+CMakeFiles\pioasm.dir\pio_assembler.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\xatomic_wait.h
+CMakeFiles\pioasm.dir\pio_assembler.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\xtimec.h
 CMakeFiles\pioasm.dir\pio_assembler.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\time.h"
 CMakeFiles\pioasm.dir\pio_assembler.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\memory
-CMakeFiles\pioasm.dir\pio_assembler.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\vcruntime_typeinfo.h
+CMakeFiles\pioasm.dir\pio_assembler.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\typeinfo
 CMakeFiles\pioasm.dir\pio_assembler.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\xlocinfo
 CMakeFiles\pioasm.dir\pio_assembler.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\clocale
 CMakeFiles\pioasm.dir\pio_assembler.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\map
-CMakeFiles\pioasm.dir\pio_assembler.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\xtree
+CMakeFiles\pioasm.dir\pio_assembler.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\xnode_handle.h
 CMakeFiles\pioasm.dir\pio_assembler.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\iostream
 CMakeFiles\pioasm.dir\pio_assembler.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\assert.h"
 
@@ -428,7 +394,7 @@ CMakeFiles\pioasm.dir\pio_disassembler.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31
 CMakeFiles\pioasm.dir\pio_disassembler.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\sal.h
 CMakeFiles\pioasm.dir\pio_disassembler.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\vadefs.h
 CMakeFiles\pioasm.dir\pio_disassembler.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\yvals.h
-CMakeFiles\pioasm.dir\pio_disassembler.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\crtdbg.h"
+CMakeFiles\pioasm.dir\pio_disassembler.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\corecrt.h"
 CMakeFiles\pioasm.dir\pio_disassembler.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\vcruntime_new.h
 CMakeFiles\pioasm.dir\pio_disassembler.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\use_ansi.h
 CMakeFiles\pioasm.dir\pio_disassembler.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\limits.h
@@ -441,20 +407,19 @@ CMakeFiles\pioasm.dir\pio_disassembler.cpp.obj: "C:\Program Files (x86)\Windows 
 CMakeFiles\pioasm.dir\pio_disassembler.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\errno.h"
 CMakeFiles\pioasm.dir\pio_disassembler.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\vcruntime_string.h
 CMakeFiles\pioasm.dir\pio_disassembler.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\type_traits
-CMakeFiles\pioasm.dir\pio_disassembler.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\cstdint
-CMakeFiles\pioasm.dir\pio_disassembler.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\xstddef
-CMakeFiles\pioasm.dir\pio_disassembler.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\xtr1common
+CMakeFiles\pioasm.dir\pio_disassembler.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\stdint.h
+CMakeFiles\pioasm.dir\pio_disassembler.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\cstddef
 CMakeFiles\pioasm.dir\pio_disassembler.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\bit
 CMakeFiles\pioasm.dir\pio_disassembler.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\intrin0.inl.h
 CMakeFiles\pioasm.dir\pio_disassembler.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\limits
-CMakeFiles\pioasm.dir\pio_disassembler.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\cfloat
 CMakeFiles\pioasm.dir\pio_disassembler.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\float.h"
 CMakeFiles\pioasm.dir\pio_disassembler.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\cstdio
-CMakeFiles\pioasm.dir\pio_disassembler.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\corecrt_wstdio.h"
+CMakeFiles\pioasm.dir\pio_disassembler.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\stdio.h"
+CMakeFiles\pioasm.dir\pio_disassembler.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\corecrt_stdio_config.h"
 CMakeFiles\pioasm.dir\pio_disassembler.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\corecrt_wconio.h"
 CMakeFiles\pioasm.dir\pio_disassembler.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\corecrt_wdirect.h"
-CMakeFiles\pioasm.dir\pio_disassembler.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\corecrt_share.h"
-CMakeFiles\pioasm.dir\pio_disassembler.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\corecrt_wtime.h"
+CMakeFiles\pioasm.dir\pio_disassembler.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\corecrt_wio.h"
+CMakeFiles\pioasm.dir\pio_disassembler.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\corecrt_wprocess.h"
 CMakeFiles\pioasm.dir\pio_disassembler.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\sys\types.h"
 CMakeFiles\pioasm.dir\pio_disassembler.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\istream
 CMakeFiles\pioasm.dir\pio_disassembler.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\ostream
@@ -462,19 +427,18 @@ CMakeFiles\pioasm.dir\pio_disassembler.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31
 CMakeFiles\pioasm.dir\pio_disassembler.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\iosfwd
 CMakeFiles\pioasm.dir\pio_disassembler.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\xiosbase
 CMakeFiles\pioasm.dir\pio_disassembler.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\system_error
-CMakeFiles\pioasm.dir\pio_disassembler.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\__msvc_system_error_abi.hpp
-CMakeFiles\pioasm.dir\pio_disassembler.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\stdexcept
-CMakeFiles\pioasm.dir\pio_disassembler.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\malloc.h"
-CMakeFiles\pioasm.dir\pio_disassembler.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\eh.h
+CMakeFiles\pioasm.dir\pio_disassembler.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\cerrno
+CMakeFiles\pioasm.dir\pio_disassembler.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\exception
+CMakeFiles\pioasm.dir\pio_disassembler.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\vcruntime_exception.h
+CMakeFiles\pioasm.dir\pio_disassembler.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\corecrt_terminate.h"
 CMakeFiles\pioasm.dir\pio_disassembler.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\xmemory
-CMakeFiles\pioasm.dir\pio_disassembler.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\new
-CMakeFiles\pioasm.dir\pio_disassembler.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\tuple
+CMakeFiles\pioasm.dir\pio_disassembler.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\xatomic.h
 CMakeFiles\pioasm.dir\pio_disassembler.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\xerrc.h
 CMakeFiles\pioasm.dir\pio_disassembler.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\xatomic_wait.h
 CMakeFiles\pioasm.dir\pio_disassembler.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\xtimec.h
-CMakeFiles\pioasm.dir\pio_disassembler.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\ctime
+CMakeFiles\pioasm.dir\pio_disassembler.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\time.h"
 CMakeFiles\pioasm.dir\pio_disassembler.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\memory
-CMakeFiles\pioasm.dir\pio_disassembler.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\vcruntime_typeinfo.h
+CMakeFiles\pioasm.dir\pio_disassembler.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\typeinfo
 CMakeFiles\pioasm.dir\pio_disassembler.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\xlocinfo
 CMakeFiles\pioasm.dir\pio_disassembler.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\cctype
 CMakeFiles\pioasm.dir\pio_disassembler.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\clocale
@@ -495,86 +459,82 @@ CMakeFiles\pioasm.dir\python_output.cpp.obj: "C:\Program Files (x86)\Windows Kit
 CMakeFiles\pioasm.dir\python_output.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\corecrt_malloc.h"
 CMakeFiles\pioasm.dir\python_output.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\stddef.h"
 CMakeFiles\pioasm.dir\python_output.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\string.h"
-CMakeFiles\pioasm.dir\python_output.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\corecrt_memory.h"
-CMakeFiles\pioasm.dir\python_output.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\errno.h"
+CMakeFiles\pioasm.dir\python_output.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\corecrt_memcpy_s.h"
+CMakeFiles\pioasm.dir\python_output.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\vcruntime_string.h
 CMakeFiles\pioasm.dir\python_output.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\type_traits
 CMakeFiles\pioasm.dir\python_output.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\stdint.h
 CMakeFiles\pioasm.dir\python_output.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\cstddef
+CMakeFiles\pioasm.dir\python_output.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\compare
 CMakeFiles\pioasm.dir\python_output.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\intrin0.h
-CMakeFiles\pioasm.dir\python_output.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\limits
-CMakeFiles\pioasm.dir\python_output.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\cfloat
-CMakeFiles\pioasm.dir\python_output.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\cwchar
-CMakeFiles\pioasm.dir\python_output.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\stdio.h"
-CMakeFiles\pioasm.dir\python_output.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\corecrt_stdio_config.h"
+CMakeFiles\pioasm.dir\python_output.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\intrin0.inl.h
+CMakeFiles\pioasm.dir\python_output.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\isa_availability.h
+CMakeFiles\pioasm.dir\python_output.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\float.h"
+CMakeFiles\pioasm.dir\python_output.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\cstdio
+CMakeFiles\pioasm.dir\python_output.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\corecrt_wstdio.h"
 CMakeFiles\pioasm.dir\python_output.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\corecrt_wconio.h"
 CMakeFiles\pioasm.dir\python_output.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\corecrt_wdirect.h"
 CMakeFiles\pioasm.dir\python_output.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\corecrt_share.h"
 CMakeFiles\pioasm.dir\python_output.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\corecrt_wtime.h"
 CMakeFiles\pioasm.dir\python_output.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\sys\types.h"
 CMakeFiles\pioasm.dir\python_output.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\xmemory
-CMakeFiles\pioasm.dir\python_output.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\exception
-CMakeFiles\pioasm.dir\python_output.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\vcruntime_exception.h
+CMakeFiles\pioasm.dir\python_output.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\new
+CMakeFiles\pioasm.dir\python_output.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\malloc.h"
+CMakeFiles\pioasm.dir\python_output.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\eh.h
 CMakeFiles\pioasm.dir\python_output.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\corecrt_terminate.h"
 CMakeFiles\pioasm.dir\python_output.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\tuple
 CMakeFiles\pioasm.dir\python_output.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\istream
 CMakeFiles\pioasm.dir\python_output.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\ostream
 CMakeFiles\pioasm.dir\python_output.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\xlocnum
-CMakeFiles\pioasm.dir\python_output.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\cmath
 CMakeFiles\pioasm.dir\python_output.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\iosfwd
 CMakeFiles\pioasm.dir\python_output.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\xiosbase
 CMakeFiles\pioasm.dir\python_output.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\share.h"
 CMakeFiles\pioasm.dir\python_output.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\__msvc_system_error_abi.hpp
 CMakeFiles\pioasm.dir\python_output.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\stdexcept
-CMakeFiles\pioasm.dir\python_output.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\xstring
 CMakeFiles\pioasm.dir\python_output.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\xpolymorphic_allocator.h
 CMakeFiles\pioasm.dir\python_output.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\xerrc.h
-CMakeFiles\pioasm.dir\python_output.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\xatomic_wait.h
+CMakeFiles\pioasm.dir\python_output.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\atomic
 CMakeFiles\pioasm.dir\python_output.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\xthreads.h
 CMakeFiles\pioasm.dir\python_output.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\ctime
 CMakeFiles\pioasm.dir\python_output.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\time.h"
 CMakeFiles\pioasm.dir\python_output.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\memory
 CMakeFiles\pioasm.dir\python_output.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\vcruntime_typeinfo.h
 CMakeFiles\pioasm.dir\python_output.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\xlocinfo
-CMakeFiles\pioasm.dir\python_output.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\cctype
+CMakeFiles\pioasm.dir\python_output.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\__msvc_xlocinfo_types.hpp
 CMakeFiles\pioasm.dir\python_output.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\ctype.h"
 CMakeFiles\pioasm.dir\python_output.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\locale.h"
 CMakeFiles\pioasm.dir\python_output.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\xlocmon
 CMakeFiles\pioasm.dir\python_output.cpp.obj: C:\Users\pico\pico-sdk\tools\pioasm\output_format.h
-CMakeFiles\pioasm.dir\python_output.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\vector
 CMakeFiles\pioasm.dir\python_output.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\xtree
-CMakeFiles\pioasm.dir\python_output.cpp.obj: D:\VS2022\VC\Tools\MSVC\14.33.31629\include\xnode_handle.h
 
 
 
-D:\VS2022\VC\Tools\MSVC\14.33.31629\include\istream:
+D:\VS2022\VC\Tools\MSVC\14.33.31629\include\vcruntime.h:
 
-D:\VS2022\VC\Tools\MSVC\14.33.31629\include\bit:
-
-"C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\corecrt_math.h":
+D:\VS2022\VC\Tools\MSVC\14.33.31629\include\atomic:
 
 C:\Users\pico\pico-sdk\tools\pioasm\ada_output.cpp:
 
-D:\VS2022\VC\Tools\MSVC\14.33.31629\include\xmemory:
+D:\VS2022\VC\Tools\MSVC\14.33.31629\include\cstdint:
 
 D:\VS2022\VC\Tools\MSVC\14.33.31629\include\cfloat:
 
 D:\VS2022\VC\Tools\MSVC\14.33.31629\include\yvals_core.h:
 
-D:\VS2022\VC\Tools\MSVC\14.33.31629\include\sal.h:
-
 D:\VS2022\VC\Tools\MSVC\14.33.31629\include\vcruntime_exception.h:
 
 D:\VS2022\VC\Tools\MSVC\14.33.31629\include\cstdlib:
 
+D:\VS2022\VC\Tools\MSVC\14.33.31629\include\eh.h:
+
 D:\VS2022\VC\Tools\MSVC\14.33.31629\include\vadefs.h:
 
-D:\VS2022\VC\Tools\MSVC\14.33.31629\include\stdint.h:
+D:\VS2022\VC\Tools\MSVC\14.33.31629\include\xutility:
 
-D:\VS2022\VC\Tools\MSVC\14.33.31629\include\xlocnum:
-
-"C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\corecrt_wio.h":
+"C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\math.h":
 
 D:\VS2022\VC\Tools\MSVC\14.33.31629\include\ctime:
+
+D:\VS2022\VC\Tools\MSVC\14.33.31629\include\cstring:
 
 "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\corecrt.h":
 
@@ -584,51 +544,41 @@ D:\VS2022\VC\Tools\MSVC\14.33.31629\include\ctime:
 
 "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\stddef.h":
 
-C:\Users\pico\pico-sdk\tools\pioasm\main.cpp:
-
-D:\VS2022\VC\Tools\MSVC\14.33.31629\include\system_error:
-
-D:\VS2022\VC\Tools\MSVC\14.33.31629\include\xtimec.h:
-
-"C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\corecrt_wstdlib.h":
-
-"C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\corecrt_terminate.h":
-
-"C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\float.h":
+"C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\corecrt_wconio.h":
 
 D:\VS2022\VC\Tools\MSVC\14.33.31629\include\cwchar:
 
-"C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\corecrt_wconio.h":
-
-D:\VS2022\VC\Tools\MSVC\14.33.31629\include\cstdio:
-
-"C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\corecrt_wstdio.h":
-
 D:\VS2022\VC\Tools\MSVC\14.33.31629\include\memory:
+
+D:\VS2022\VC\Tools\MSVC\14.33.31629\include\xstring:
 
 "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\corecrt_stdio_config.h":
 
 "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\corecrt_memcpy_s.h":
 
-"C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\errno.h":
+D:\VS2022\VC\Tools\MSVC\14.33.31629\include\vcruntime_string.h:
 
-"C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\corecrt_wstring.h":
+D:\VS2022\VC\Tools\MSVC\14.33.31629\include\stdint.h:
+
+D:\VS2022\VC\Tools\MSVC\14.33.31629\include\xlocnum:
+
+"C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\corecrt_wio.h":
 
 "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\sys\types.h":
 
-D:\VS2022\VC\Tools\MSVC\14.33.31629\include\stdexcept:
+D:\VS2022\VC\Tools\MSVC\14.33.31629\include\clocale:
 
-D:\VS2022\VC\Tools\MSVC\14.33.31629\include\intrin0.h:
+D:\VS2022\VC\Tools\MSVC\14.33.31629\include\concepts:
 
-D:\VS2022\VC\Tools\MSVC\14.33.31629\include\__msvc_xlocinfo_types.hpp:
+D:\VS2022\VC\Tools\MSVC\14.33.31629\include\intrin0.inl.h:
 
 D:\VS2022\VC\Tools\MSVC\14.33.31629\include\xstddef:
 
-D:\VS2022\VC\Tools\MSVC\14.33.31629\include\vcruntime_typeinfo.h:
-
 D:\VS2022\VC\Tools\MSVC\14.33.31629\include\xtr1common:
 
-D:\VS2022\VC\Tools\MSVC\14.33.31629\include\crtdefs.h:
+"C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\wchar.h":
+
+D:\VS2022\VC\Tools\MSVC\14.33.31629\include\cerrno:
 
 D:\VS2022\VC\Tools\MSVC\14.33.31629\include\exception:
 
@@ -638,37 +588,33 @@ D:\VS2022\VC\Tools\MSVC\14.33.31629\include\vcruntime_new_debug.h:
 
 D:\VS2022\VC\Tools\MSVC\14.33.31629\include\use_ansi.h:
 
-D:\VS2022\VC\Tools\MSVC\14.33.31629\include\xutility:
+"C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\corecrt_memory.h":
 
-D:\VS2022\VC\Tools\MSVC\14.33.31629\include\cmath:
+"C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\corecrt_math.h":
 
-"C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\string.h":
+D:\VS2022\VC\Tools\MSVC\14.33.31629\include\istream:
 
-"C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\ctype.h":
+D:\VS2022\VC\Tools\MSVC\14.33.31629\include\bit:
 
 D:\VS2022\VC\Tools\MSVC\14.33.31629\include\ostream:
 
+D:\VS2022\VC\Tools\MSVC\14.33.31629\include\cctype:
+
+D:\VS2022\VC\Tools\MSVC\14.33.31629\include\iosfwd:
+
 D:\VS2022\VC\Tools\MSVC\14.33.31629\include\xiosbase:
 
-D:\VS2022\VC\Tools\MSVC\14.33.31629\include\__msvc_system_error_abi.hpp:
-
-"C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\crtdbg.h":
-
-D:\VS2022\VC\Tools\MSVC\14.33.31629\include\xpolymorphic_allocator.h:
+"C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\share.h":
 
 D:\VS2022\VC\Tools\MSVC\14.33.31629\include\xerrc.h:
 
-D:\VS2022\VC\Tools\MSVC\14.33.31629\include\atomic:
-
-D:\VS2022\VC\Tools\MSVC\14.33.31629\include\vcruntime.h:
-
 D:\VS2022\VC\Tools\MSVC\14.33.31629\include\xthreads.h:
+
+D:\VS2022\VC\Tools\MSVC\14.33.31629\include\typeinfo:
 
 D:\VS2022\VC\Tools\MSVC\14.33.31629\include\xlocinfo:
 
-D:\VS2022\VC\Tools\MSVC\14.33.31629\include\clocale:
-
-D:\VS2022\VC\Tools\MSVC\14.33.31629\include\concepts:
+"C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\locale.h":
 
 D:\VS2022\VC\Tools\MSVC\14.33.31629\include\vector:
 
@@ -678,63 +624,63 @@ D:\VS2022\VC\Tools\MSVC\14.33.31629\include\climits:
 
 C:\Users\pico\pico-sdk\tools\pioasm\c_sdk_output.cpp:
 
-D:\VS2022\VC\Tools\MSVC\14.33.31629\include\cstdint:
+"C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\corecrt_wstdio.h":
 
-"C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\corecrt_memory.h":
+"C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\errno.h":
 
-D:\VS2022\VC\Tools\MSVC\14.33.31629\include\iosfwd:
+"C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\corecrt_wdirect.h":
 
-"C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\share.h":
+D:\VS2022\VC\Tools\MSVC\14.33.31629\include\cstddef:
 
-D:\VS2022\VC\Tools\MSVC\14.33.31629\include\xstring:
+"C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\corecrt_share.h":
 
-D:\VS2022\VC\Tools\MSVC\14.33.31629\include\typeinfo:
+"C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\corecrt_wstring.h":
+
+D:\VS2022\VC\Tools\MSVC\14.33.31629\include\initializer_list:
+
+D:\VS2022\VC\Tools\MSVC\14.33.31629\include\type_traits:
+
+"C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\corecrt_terminate.h":
+
+"C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\string.h":
+
+D:\VS2022\VC\Tools\MSVC\14.33.31629\include\xatomic_wait.h:
+
+D:\VS2022\VC\Tools\MSVC\14.33.31629\include\compare:
+
+D:\VS2022\VC\Tools\MSVC\14.33.31629\include\ios:
+
+C:\Users\pico\pico-sdk\tools\pioasm\main.cpp:
+
+D:\VS2022\VC\Tools\MSVC\14.33.31629\include\system_error:
+
+D:\VS2022\VC\Tools\MSVC\14.33.31629\include\__msvc_system_error_abi.hpp:
+
+D:\VS2022\VC\Tools\MSVC\14.33.31629\include\stdexcept:
+
+D:\VS2022\VC\Tools\MSVC\14.33.31629\include\__msvc_xlocinfo_types.hpp:
+
+"C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\ctype.h":
 
 D:\VS2022\VC\Tools\MSVC\14.33.31629\include\xnode_handle.h:
 
 C:\Users\pico\pico-sdk\tools\pioasm\gen\lexer.cpp:
 
-D:\VS2022\VC\Tools\MSVC\14.33.31629\include\vcruntime_string.h:
-
-"C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\corecrt_search.h":
-
-D:\VS2022\VC\Tools\MSVC\14.33.31629\include\xkeycheck.h:
+D:\VS2022\VC\Tools\MSVC\14.33.31629\include\sal.h:
 
 D:\VS2022\VC\Tools\MSVC\14.33.31629\include\string:
 
-D:\VS2022\VC\Tools\MSVC\14.33.31629\include\cstddef:
+D:\VS2022\VC\Tools\MSVC\14.33.31629\include\xpolymorphic_allocator.h:
 
-"C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\corecrt_wdirect.h":
+"C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\crtdbg.h":
 
-"C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\corecrt_share.h":
+D:\VS2022\VC\Tools\MSVC\14.33.31629\include\vcruntime_new.h:
 
 "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\corecrt_wtime.h":
-
-D:\VS2022\VC\Tools\MSVC\14.33.31629\include\limits:
-
-D:\VS2022\VC\Tools\MSVC\14.33.31629\include\intrin0.inl.h:
-
-D:\VS2022\VC\Tools\MSVC\14.33.31629\include\type_traits:
-
-D:\VS2022\VC\Tools\MSVC\14.33.31629\include\xatomic.h:
-
-D:\VS2022\VC\Tools\MSVC\14.33.31629\include\utility:
 
 D:\VS2022\VC\Tools\MSVC\14.33.31629\include\algorithm:
 
 D:\VS2022\VC\Tools\MSVC\14.33.31629\include\fstream:
-
-D:\VS2022\VC\Tools\MSVC\14.33.31629\include\ios:
-
-D:\VS2022\VC\Tools\MSVC\14.33.31629\include\xatomic_wait.h:
-
-"C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\time.h":
-
-"C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\locale.h":
-
-D:\VS2022\VC\Tools\MSVC\14.33.31629\include\new:
-
-D:\VS2022\VC\Tools\MSVC\14.33.31629\include\map:
 
 D:\VS2022\VC\Tools\MSVC\14.33.31629\include\iostream:
 
@@ -742,41 +688,51 @@ D:\VS2022\VC\Tools\MSVC\14.33.31629\include\iostream:
 
 C:\Users\pico\pico-sdk\tools\pioasm\gen\parser.cpp:
 
-D:\VS2022\VC\Tools\MSVC\14.33.31629\include\vcruntime_new.h:
+D:\VS2022\VC\Tools\MSVC\14.33.31629\include\xtimec.h:
 
-D:\VS2022\VC\Tools\MSVC\14.33.31629\include\cerrno:
+"C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\corecrt_wstdlib.h":
 
-"C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\wchar.h":
+D:\VS2022\VC\Tools\MSVC\14.33.31629\include\intrin0.h:
 
-"C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\sys\stat.h":
+D:\VS2022\VC\Tools\MSVC\14.33.31629\include\cmath:
 
-"C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\math.h":
+D:\VS2022\VC\Tools\MSVC\14.33.31629\include\vcruntime_typeinfo.h:
 
-D:\VS2022\VC\Tools\MSVC\14.33.31629\include\limits.h:
+D:\VS2022\VC\Tools\MSVC\14.33.31629\include\new:
 
-C:\Users\pico\pico-sdk\tools\pioasm\pio_types.h:
+D:\VS2022\VC\Tools\MSVC\14.33.31629\include\map:
 
 C:\Users\pico\pico-sdk\tools\pioasm\hex_output.cpp:
 
-"C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\corecrt_wctype.h":
-
-D:\VS2022\VC\Tools\MSVC\14.33.31629\include\eh.h:
-
-D:\VS2022\VC\Tools\MSVC\14.33.31629\include\cstring:
-
 D:\VS2022\VC\Tools\MSVC\14.33.31629\include\xfacet:
 
-D:\VS2022\VC\Tools\MSVC\14.33.31629\include\cctype:
+D:\VS2022\VC\Tools\MSVC\14.33.31629\include\limits.h:
 
-C:\Users\pico\pico-sdk\tools\pioasm\pio_assembler.cpp:
+D:\VS2022\VC\Tools\MSVC\14.33.31629\include\isa_availability.h:
+
+"C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\float.h":
+
+D:\VS2022\VC\Tools\MSVC\14.33.31629\include\cstdio:
 
 D:\VS2022\VC\Tools\MSVC\14.33.31629\include\xlocmon:
 
 "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\malloc.h":
 
+"C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\time.h":
+
+C:\Users\pico\pico-sdk\tools\pioasm\pio_assembler.cpp:
+
+D:\VS2022\VC\Tools\MSVC\14.33.31629\include\limits:
+
+D:\VS2022\VC\Tools\MSVC\14.33.31629\include\xmemory:
+
 D:\VS2022\VC\Tools\MSVC\14.33.31629\include\tuple:
 
 C:\Users\pico\pico-sdk\tools\pioasm\pio_disassembler.cpp:
+
+"C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\corecrt_wprocess.h":
+
+D:\VS2022\VC\Tools\MSVC\14.33.31629\include\xatomic.h:
 
 C:\Users\pico\pico-sdk\tools\pioasm\python_output.cpp:
 

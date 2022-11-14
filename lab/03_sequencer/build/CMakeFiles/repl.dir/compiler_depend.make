@@ -2898,47 +2898,163 @@ CMakeFiles\repl.dir\C_\Users\pico\pico-sdk\src\rp2_common\pico_unique_id\unique_
 CMakeFiles\repl.dir\C_\Users\pico\pico-sdk\src\rp2_common\pico_unique_id\unique_id.c.obj: C:\Users\pico\pico-sdk\src\rp2_common\pico_unique_id\include\pico\unique_id.h
 
 
+CMakeFiles\repl.dir\neopixel.c.obj: C:\Users\24664\Desktop\REPL\neopixel.c
+CMakeFiles\repl.dir\neopixel.c.obj: C:\Users\pico\pico-sdk\src\rp2_common\hardware_pio\include\hardware\pio.h
+CMakeFiles\repl.dir\neopixel.c.obj: C:\Users\pico\pico-sdk\src\common\pico_base\include\pico.h
+CMakeFiles\repl.dir\neopixel.c.obj: C:\Users\pico\pico-sdk\src\common\pico_base\include\pico\types.h
+CMakeFiles\repl.dir\neopixel.c.obj: C:\Users\pico\pico-sdk\src\common\pico_base\include\pico\assert.h
+CMakeFiles\repl.dir\neopixel.c.obj: "C:\Program Files (x86)\GNU Tools ARM Embedded\6 2017-q2-update\lib\gcc\arm-none-eabi\6.3.1\include\stdbool.h"
+CMakeFiles\repl.dir\neopixel.c.obj: "C:\Program Files (x86)\GNU Tools ARM Embedded\6 2017-q2-update\arm-none-eabi\include\assert.h"
+CMakeFiles\repl.dir\neopixel.c.obj: "C:\Program Files (x86)\GNU Tools ARM Embedded\6 2017-q2-update\arm-none-eabi\include\_ansi.h"
+CMakeFiles\repl.dir\neopixel.c.obj: "C:\Program Files (x86)\GNU Tools ARM Embedded\6 2017-q2-update\arm-none-eabi\include\newlib.h"
+CMakeFiles\repl.dir\neopixel.c.obj: "C:\Program Files (x86)\GNU Tools ARM Embedded\6 2017-q2-update\arm-none-eabi\include\_newlib_version.h"
+CMakeFiles\repl.dir\neopixel.c.obj: "C:\Program Files (x86)\GNU Tools ARM Embedded\6 2017-q2-update\arm-none-eabi\include\sys\config.h"
+CMakeFiles\repl.dir\neopixel.c.obj: "C:\Program Files (x86)\GNU Tools ARM Embedded\6 2017-q2-update\arm-none-eabi\include\machine\ieeefp.h"
+CMakeFiles\repl.dir\neopixel.c.obj: "C:\Program Files (x86)\GNU Tools ARM Embedded\6 2017-q2-update\arm-none-eabi\include\sys\features.h"
+CMakeFiles\repl.dir\neopixel.c.obj: "C:\Program Files (x86)\GNU Tools ARM Embedded\6 2017-q2-update\lib\gcc\arm-none-eabi\6.3.1\include\stdint.h"
+CMakeFiles\repl.dir\neopixel.c.obj: "C:\Program Files (x86)\GNU Tools ARM Embedded\6 2017-q2-update\arm-none-eabi\include\stdint.h"
+CMakeFiles\repl.dir\neopixel.c.obj: "C:\Program Files (x86)\GNU Tools ARM Embedded\6 2017-q2-update\arm-none-eabi\include\machine\_default_types.h"
+CMakeFiles\repl.dir\neopixel.c.obj: "C:\Program Files (x86)\GNU Tools ARM Embedded\6 2017-q2-update\arm-none-eabi\include\sys\_intsup.h"
+CMakeFiles\repl.dir\neopixel.c.obj: "C:\Program Files (x86)\GNU Tools ARM Embedded\6 2017-q2-update\arm-none-eabi\include\sys\_stdint.h"
+CMakeFiles\repl.dir\neopixel.c.obj: "C:\Program Files (x86)\GNU Tools ARM Embedded\6 2017-q2-update\lib\gcc\arm-none-eabi\6.3.1\include\stddef.h"
+CMakeFiles\repl.dir\neopixel.c.obj: generated\pico_base\pico\version.h
+CMakeFiles\repl.dir\neopixel.c.obj: C:\Users\pico\pico-sdk\src\common\pico_base\include\pico\config.h
+CMakeFiles\repl.dir\neopixel.c.obj: generated\pico_base\pico\config_autogen.h
+CMakeFiles\repl.dir\neopixel.c.obj: C:\Users\pico\pico-sdk\src\boards\include\boards\pico.h
+CMakeFiles\repl.dir\neopixel.c.obj: C:\Users\pico\pico-sdk\src\rp2_common\cmsis\include\cmsis\rename_exceptions.h
+CMakeFiles\repl.dir\neopixel.c.obj: C:\Users\pico\pico-sdk\src\rp2_common\pico_platform\include\pico\platform.h
+CMakeFiles\repl.dir\neopixel.c.obj: C:\Users\pico\pico-sdk\src\rp2040\hardware_regs\include\hardware\platform_defs.h
+CMakeFiles\repl.dir\neopixel.c.obj: C:\Users\pico\pico-sdk\src\rp2040\hardware_regs\include\hardware\regs\addressmap.h
+CMakeFiles\repl.dir\neopixel.c.obj: C:\Users\pico\pico-sdk\src\rp2040\hardware_regs\include\hardware\regs\sio.h
+CMakeFiles\repl.dir\neopixel.c.obj: "C:\Program Files (x86)\GNU Tools ARM Embedded\6 2017-q2-update\arm-none-eabi\include\sys\cdefs.h"
+CMakeFiles\repl.dir\neopixel.c.obj: C:\Users\pico\pico-sdk\src\common\pico_base\include\pico\types.h
+CMakeFiles\repl.dir\neopixel.c.obj: C:\Users\pico\pico-sdk\src\common\pico_base\include\pico\error.h
+CMakeFiles\repl.dir\neopixel.c.obj: C:\Users\pico\pico-sdk\src\rp2_common\hardware_base\include\hardware\address_mapped.h
+CMakeFiles\repl.dir\neopixel.c.obj: C:\Users\pico\pico-sdk\src\rp2040\hardware_structs\include\hardware\structs\pio.h
+CMakeFiles\repl.dir\neopixel.c.obj: C:\Users\pico\pico-sdk\src\rp2040\hardware_regs\include\hardware\regs\pio.h
+CMakeFiles\repl.dir\neopixel.c.obj: C:\Users\pico\pico-sdk\src\rp2_common\hardware_gpio\include\hardware\gpio.h
+CMakeFiles\repl.dir\neopixel.c.obj: C:\Users\pico\pico-sdk\src\rp2040\hardware_structs\include\hardware\structs\sio.h
+CMakeFiles\repl.dir\neopixel.c.obj: C:\Users\pico\pico-sdk\src\rp2040\hardware_structs\include\hardware\structs\interp.h
+CMakeFiles\repl.dir\neopixel.c.obj: C:\Users\pico\pico-sdk\src\rp2040\hardware_structs\include\hardware\structs\padsbank0.h
+CMakeFiles\repl.dir\neopixel.c.obj: C:\Users\pico\pico-sdk\src\rp2040\hardware_regs\include\hardware\regs\pads_bank0.h
+CMakeFiles\repl.dir\neopixel.c.obj: C:\Users\pico\pico-sdk\src\rp2040\hardware_structs\include\hardware\structs\iobank0.h
+CMakeFiles\repl.dir\neopixel.c.obj: C:\Users\pico\pico-sdk\src\rp2040\hardware_regs\include\hardware\regs\io_bank0.h
+CMakeFiles\repl.dir\neopixel.c.obj: C:\Users\pico\pico-sdk\src\rp2_common\hardware_irq\include\hardware\irq.h
+CMakeFiles\repl.dir\neopixel.c.obj: C:\Users\pico\pico-sdk\src\rp2040\hardware_regs\include\hardware\regs\intctrl.h
+CMakeFiles\repl.dir\neopixel.c.obj: C:\Users\pico\pico-sdk\src\rp2040\hardware_regs\include\hardware\regs\m0plus.h
+CMakeFiles\repl.dir\neopixel.c.obj: C:\Users\pico\pico-sdk\src\rp2040\hardware_regs\include\hardware\regs\dreq.h
+CMakeFiles\repl.dir\neopixel.c.obj: C:\Users\pico\pico-sdk\src\rp2_common\hardware_pio\include\hardware\pio_instructions.h
+CMakeFiles\repl.dir\neopixel.c.obj: C:\Users\24664\Desktop\REPL\generated\ws2812.pio.h
+CMakeFiles\repl.dir\neopixel.c.obj: C:\Users\pico\pico-sdk\src\rp2_common\hardware_clocks\include\hardware\clocks.h
+CMakeFiles\repl.dir\neopixel.c.obj: C:\Users\pico\pico-sdk\src\rp2040\hardware_structs\include\hardware\structs\clocks.h
+CMakeFiles\repl.dir\neopixel.c.obj: C:\Users\pico\pico-sdk\src\rp2040\hardware_regs\include\hardware\regs\clocks.h
+
+
+CMakeFiles\repl.dir\repl.c.obj: C:\Users\24664\Desktop\REPL\repl.c
+CMakeFiles\repl.dir\repl.c.obj: "C:\Program Files (x86)\GNU Tools ARM Embedded\6 2017-q2-update\arm-none-eabi\include\stdio.h"
+CMakeFiles\repl.dir\repl.c.obj: "C:\Program Files (x86)\GNU Tools ARM Embedded\6 2017-q2-update\arm-none-eabi\include\_ansi.h"
+CMakeFiles\repl.dir\repl.c.obj: "C:\Program Files (x86)\GNU Tools ARM Embedded\6 2017-q2-update\arm-none-eabi\include\newlib.h"
+CMakeFiles\repl.dir\repl.c.obj: "C:\Program Files (x86)\GNU Tools ARM Embedded\6 2017-q2-update\arm-none-eabi\include\_newlib_version.h"
+CMakeFiles\repl.dir\repl.c.obj: "C:\Program Files (x86)\GNU Tools ARM Embedded\6 2017-q2-update\arm-none-eabi\include\sys\config.h"
+CMakeFiles\repl.dir\repl.c.obj: "C:\Program Files (x86)\GNU Tools ARM Embedded\6 2017-q2-update\arm-none-eabi\include\machine\ieeefp.h"
+CMakeFiles\repl.dir\repl.c.obj: "C:\Program Files (x86)\GNU Tools ARM Embedded\6 2017-q2-update\arm-none-eabi\include\sys\features.h"
+CMakeFiles\repl.dir\repl.c.obj: "C:\Program Files (x86)\GNU Tools ARM Embedded\6 2017-q2-update\arm-none-eabi\include\sys\cdefs.h"
+CMakeFiles\repl.dir\repl.c.obj: "C:\Program Files (x86)\GNU Tools ARM Embedded\6 2017-q2-update\arm-none-eabi\include\machine\_default_types.h"
+CMakeFiles\repl.dir\repl.c.obj: "C:\Program Files (x86)\GNU Tools ARM Embedded\6 2017-q2-update\lib\gcc\arm-none-eabi\6.3.1\include\stddef.h"
+CMakeFiles\repl.dir\repl.c.obj: "C:\Program Files (x86)\GNU Tools ARM Embedded\6 2017-q2-update\lib\gcc\arm-none-eabi\6.3.1\include\stdarg.h"
+CMakeFiles\repl.dir\repl.c.obj: "C:\Program Files (x86)\GNU Tools ARM Embedded\6 2017-q2-update\arm-none-eabi\include\sys\reent.h"
+CMakeFiles\repl.dir\repl.c.obj: "C:\Program Files (x86)\GNU Tools ARM Embedded\6 2017-q2-update\arm-none-eabi\include\_ansi.h"
+CMakeFiles\repl.dir\repl.c.obj: "C:\Program Files (x86)\GNU Tools ARM Embedded\6 2017-q2-update\arm-none-eabi\include\sys\_types.h"
+CMakeFiles\repl.dir\repl.c.obj: "C:\Program Files (x86)\GNU Tools ARM Embedded\6 2017-q2-update\arm-none-eabi\include\machine\_types.h"
+CMakeFiles\repl.dir\repl.c.obj: "C:\Program Files (x86)\GNU Tools ARM Embedded\6 2017-q2-update\arm-none-eabi\include\sys\lock.h"
+CMakeFiles\repl.dir\repl.c.obj: "C:\Program Files (x86)\GNU Tools ARM Embedded\6 2017-q2-update\arm-none-eabi\include\sys\types.h"
+CMakeFiles\repl.dir\repl.c.obj: "C:\Program Files (x86)\GNU Tools ARM Embedded\6 2017-q2-update\arm-none-eabi\include\sys\_stdint.h"
+CMakeFiles\repl.dir\repl.c.obj: "C:\Program Files (x86)\GNU Tools ARM Embedded\6 2017-q2-update\arm-none-eabi\include\machine\endian.h"
+CMakeFiles\repl.dir\repl.c.obj: "C:\Program Files (x86)\GNU Tools ARM Embedded\6 2017-q2-update\arm-none-eabi\include\machine\_endian.h"
+CMakeFiles\repl.dir\repl.c.obj: "C:\Program Files (x86)\GNU Tools ARM Embedded\6 2017-q2-update\arm-none-eabi\include\sys\select.h"
+CMakeFiles\repl.dir\repl.c.obj: "C:\Program Files (x86)\GNU Tools ARM Embedded\6 2017-q2-update\arm-none-eabi\include\sys\_sigset.h"
+CMakeFiles\repl.dir\repl.c.obj: "C:\Program Files (x86)\GNU Tools ARM Embedded\6 2017-q2-update\arm-none-eabi\include\sys\_timeval.h"
+CMakeFiles\repl.dir\repl.c.obj: "C:\Program Files (x86)\GNU Tools ARM Embedded\6 2017-q2-update\arm-none-eabi\include\sys\timespec.h"
+CMakeFiles\repl.dir\repl.c.obj: "C:\Program Files (x86)\GNU Tools ARM Embedded\6 2017-q2-update\arm-none-eabi\include\sys\_timespec.h"
+CMakeFiles\repl.dir\repl.c.obj: "C:\Program Files (x86)\GNU Tools ARM Embedded\6 2017-q2-update\arm-none-eabi\include\sys\_pthreadtypes.h"
+CMakeFiles\repl.dir\repl.c.obj: "C:\Program Files (x86)\GNU Tools ARM Embedded\6 2017-q2-update\arm-none-eabi\include\machine\types.h"
+CMakeFiles\repl.dir\repl.c.obj: "C:\Program Files (x86)\GNU Tools ARM Embedded\6 2017-q2-update\arm-none-eabi\include\sys\stdio.h"
+CMakeFiles\repl.dir\repl.c.obj: "C:\Program Files (x86)\GNU Tools ARM Embedded\6 2017-q2-update\arm-none-eabi\include\stdlib.h"
+CMakeFiles\repl.dir\repl.c.obj: "C:\Program Files (x86)\GNU Tools ARM Embedded\6 2017-q2-update\arm-none-eabi\include\machine\stdlib.h"
+CMakeFiles\repl.dir\repl.c.obj: "C:\Program Files (x86)\GNU Tools ARM Embedded\6 2017-q2-update\arm-none-eabi\include\alloca.h"
+CMakeFiles\repl.dir\repl.c.obj: "C:\Program Files (x86)\GNU Tools ARM Embedded\6 2017-q2-update\arm-none-eabi\include\string.h"
+CMakeFiles\repl.dir\repl.c.obj: "C:\Program Files (x86)\GNU Tools ARM Embedded\6 2017-q2-update\arm-none-eabi\include\xlocale.h"
+CMakeFiles\repl.dir\repl.c.obj: "C:\Program Files (x86)\GNU Tools ARM Embedded\6 2017-q2-update\arm-none-eabi\include\sys\string.h"
+CMakeFiles\repl.dir\repl.c.obj: C:\Users\pico\pico-sdk\src\common\pico_stdlib\include\pico\stdlib.h
+CMakeFiles\repl.dir\repl.c.obj: C:\Users\pico\pico-sdk\src\common\pico_base\include\pico.h
+CMakeFiles\repl.dir\repl.c.obj: C:\Users\pico\pico-sdk\src\common\pico_base\include\pico\types.h
+CMakeFiles\repl.dir\repl.c.obj: C:\Users\pico\pico-sdk\src\common\pico_base\include\pico\assert.h
+CMakeFiles\repl.dir\repl.c.obj: "C:\Program Files (x86)\GNU Tools ARM Embedded\6 2017-q2-update\lib\gcc\arm-none-eabi\6.3.1\include\stdbool.h"
+CMakeFiles\repl.dir\repl.c.obj: "C:\Program Files (x86)\GNU Tools ARM Embedded\6 2017-q2-update\arm-none-eabi\include\assert.h"
+CMakeFiles\repl.dir\repl.c.obj: "C:\Program Files (x86)\GNU Tools ARM Embedded\6 2017-q2-update\lib\gcc\arm-none-eabi\6.3.1\include\stdint.h"
+CMakeFiles\repl.dir\repl.c.obj: "C:\Program Files (x86)\GNU Tools ARM Embedded\6 2017-q2-update\arm-none-eabi\include\stdint.h"
+CMakeFiles\repl.dir\repl.c.obj: "C:\Program Files (x86)\GNU Tools ARM Embedded\6 2017-q2-update\arm-none-eabi\include\sys\_intsup.h"
+CMakeFiles\repl.dir\repl.c.obj: generated\pico_base\pico\version.h
+CMakeFiles\repl.dir\repl.c.obj: C:\Users\pico\pico-sdk\src\common\pico_base\include\pico\config.h
+CMakeFiles\repl.dir\repl.c.obj: generated\pico_base\pico\config_autogen.h
+CMakeFiles\repl.dir\repl.c.obj: C:\Users\pico\pico-sdk\src\boards\include\boards\pico.h
+CMakeFiles\repl.dir\repl.c.obj: C:\Users\pico\pico-sdk\src\rp2_common\cmsis\include\cmsis\rename_exceptions.h
+CMakeFiles\repl.dir\repl.c.obj: C:\Users\pico\pico-sdk\src\rp2_common\pico_platform\include\pico\platform.h
+CMakeFiles\repl.dir\repl.c.obj: C:\Users\pico\pico-sdk\src\rp2040\hardware_regs\include\hardware\platform_defs.h
+CMakeFiles\repl.dir\repl.c.obj: C:\Users\pico\pico-sdk\src\rp2040\hardware_regs\include\hardware\regs\addressmap.h
+CMakeFiles\repl.dir\repl.c.obj: C:\Users\pico\pico-sdk\src\rp2040\hardware_regs\include\hardware\regs\sio.h
+CMakeFiles\repl.dir\repl.c.obj: C:\Users\pico\pico-sdk\src\common\pico_base\include\pico\types.h
+CMakeFiles\repl.dir\repl.c.obj: C:\Users\pico\pico-sdk\src\common\pico_base\include\pico\error.h
+CMakeFiles\repl.dir\repl.c.obj: C:\Users\pico\pico-sdk\src\rp2_common\pico_stdio\include\pico\stdio.h
+CMakeFiles\repl.dir\repl.c.obj: C:\Users\pico\pico-sdk\src\common\pico_time\include\pico\time.h
+CMakeFiles\repl.dir\repl.c.obj: C:\Users\pico\pico-sdk\src\rp2_common\hardware_timer\include\hardware\timer.h
+CMakeFiles\repl.dir\repl.c.obj: C:\Users\pico\pico-sdk\src\rp2040\hardware_structs\include\hardware\structs\timer.h
+CMakeFiles\repl.dir\repl.c.obj: C:\Users\pico\pico-sdk\src\rp2_common\hardware_base\include\hardware\address_mapped.h
+CMakeFiles\repl.dir\repl.c.obj: C:\Users\pico\pico-sdk\src\rp2040\hardware_regs\include\hardware\regs\timer.h
+CMakeFiles\repl.dir\repl.c.obj: C:\Users\pico\pico-sdk\src\rp2_common\hardware_gpio\include\hardware\gpio.h
+CMakeFiles\repl.dir\repl.c.obj: C:\Users\pico\pico-sdk\src\rp2040\hardware_structs\include\hardware\structs\sio.h
+CMakeFiles\repl.dir\repl.c.obj: C:\Users\pico\pico-sdk\src\rp2040\hardware_structs\include\hardware\structs\interp.h
+CMakeFiles\repl.dir\repl.c.obj: C:\Users\pico\pico-sdk\src\rp2040\hardware_structs\include\hardware\structs\padsbank0.h
+CMakeFiles\repl.dir\repl.c.obj: C:\Users\pico\pico-sdk\src\rp2040\hardware_regs\include\hardware\regs\pads_bank0.h
+CMakeFiles\repl.dir\repl.c.obj: C:\Users\pico\pico-sdk\src\rp2040\hardware_structs\include\hardware\structs\iobank0.h
+CMakeFiles\repl.dir\repl.c.obj: C:\Users\pico\pico-sdk\src\rp2040\hardware_regs\include\hardware\regs\io_bank0.h
+CMakeFiles\repl.dir\repl.c.obj: C:\Users\pico\pico-sdk\src\rp2_common\hardware_irq\include\hardware\irq.h
+CMakeFiles\repl.dir\repl.c.obj: C:\Users\pico\pico-sdk\src\rp2040\hardware_regs\include\hardware\regs\intctrl.h
+CMakeFiles\repl.dir\repl.c.obj: C:\Users\pico\pico-sdk\src\rp2040\hardware_regs\include\hardware\regs\m0plus.h
+CMakeFiles\repl.dir\repl.c.obj: C:\Users\pico\pico-sdk\src\rp2_common\hardware_uart\include\hardware\uart.h
+CMakeFiles\repl.dir\repl.c.obj: C:\Users\pico\pico-sdk\src\rp2040\hardware_structs\include\hardware\structs\uart.h
+CMakeFiles\repl.dir\repl.c.obj: C:\Users\pico\pico-sdk\src\rp2040\hardware_regs\include\hardware\regs\uart.h
+CMakeFiles\repl.dir\repl.c.obj: C:\Users\pico\pico-sdk\src\rp2040\hardware_regs\include\hardware\regs\dreq.h
+CMakeFiles\repl.dir\repl.c.obj: C:\Users\pico\pico-sdk\src\rp2_common\pico_stdio_usb\include\pico\stdio_usb.h
+CMakeFiles\repl.dir\repl.c.obj: C:\Users\24664\Desktop\REPL\registers.h
+CMakeFiles\repl.dir\repl.c.obj: C:\Users\pico\pico-sdk\src\rp2_common\hardware_pio\include\hardware\pio.h
+CMakeFiles\repl.dir\repl.c.obj: C:\Users\pico\pico-sdk\src\rp2040\hardware_structs\include\hardware\structs\pio.h
+CMakeFiles\repl.dir\repl.c.obj: C:\Users\pico\pico-sdk\src\rp2040\hardware_regs\include\hardware\regs\pio.h
+CMakeFiles\repl.dir\repl.c.obj: C:\Users\pico\pico-sdk\src\rp2_common\hardware_pio\include\hardware\pio_instructions.h
+CMakeFiles\repl.dir\repl.c.obj: C:\Users\pico\pico-sdk\src\rp2_common\hardware_clocks\include\hardware\clocks.h
+CMakeFiles\repl.dir\repl.c.obj: C:\Users\pico\pico-sdk\src\rp2040\hardware_structs\include\hardware\structs\clocks.h
+CMakeFiles\repl.dir\repl.c.obj: C:\Users\pico\pico-sdk\src\rp2040\hardware_regs\include\hardware\regs\clocks.h
+
+
 CMakeFiles\repl.dir\sequencer.c.obj: C:\Users\24664\Desktop\REPL\sequencer.c
-CMakeFiles\repl.dir\sequencer.c.obj: "C:\Program Files (x86)\GNU Tools ARM Embedded\6 2017-q2-update\arm-none-eabi\include\stdio.h"
-CMakeFiles\repl.dir\sequencer.c.obj: "C:\Program Files (x86)\GNU Tools ARM Embedded\6 2017-q2-update\arm-none-eabi\include\_ansi.h"
-CMakeFiles\repl.dir\sequencer.c.obj: "C:\Program Files (x86)\GNU Tools ARM Embedded\6 2017-q2-update\arm-none-eabi\include\newlib.h"
-CMakeFiles\repl.dir\sequencer.c.obj: "C:\Program Files (x86)\GNU Tools ARM Embedded\6 2017-q2-update\arm-none-eabi\include\_newlib_version.h"
-CMakeFiles\repl.dir\sequencer.c.obj: "C:\Program Files (x86)\GNU Tools ARM Embedded\6 2017-q2-update\arm-none-eabi\include\sys\config.h"
-CMakeFiles\repl.dir\sequencer.c.obj: "C:\Program Files (x86)\GNU Tools ARM Embedded\6 2017-q2-update\arm-none-eabi\include\machine\ieeefp.h"
-CMakeFiles\repl.dir\sequencer.c.obj: "C:\Program Files (x86)\GNU Tools ARM Embedded\6 2017-q2-update\arm-none-eabi\include\sys\features.h"
-CMakeFiles\repl.dir\sequencer.c.obj: "C:\Program Files (x86)\GNU Tools ARM Embedded\6 2017-q2-update\arm-none-eabi\include\sys\cdefs.h"
-CMakeFiles\repl.dir\sequencer.c.obj: "C:\Program Files (x86)\GNU Tools ARM Embedded\6 2017-q2-update\arm-none-eabi\include\machine\_default_types.h"
-CMakeFiles\repl.dir\sequencer.c.obj: "C:\Program Files (x86)\GNU Tools ARM Embedded\6 2017-q2-update\lib\gcc\arm-none-eabi\6.3.1\include\stddef.h"
-CMakeFiles\repl.dir\sequencer.c.obj: "C:\Program Files (x86)\GNU Tools ARM Embedded\6 2017-q2-update\lib\gcc\arm-none-eabi\6.3.1\include\stdarg.h"
-CMakeFiles\repl.dir\sequencer.c.obj: "C:\Program Files (x86)\GNU Tools ARM Embedded\6 2017-q2-update\arm-none-eabi\include\sys\reent.h"
-CMakeFiles\repl.dir\sequencer.c.obj: "C:\Program Files (x86)\GNU Tools ARM Embedded\6 2017-q2-update\arm-none-eabi\include\_ansi.h"
-CMakeFiles\repl.dir\sequencer.c.obj: "C:\Program Files (x86)\GNU Tools ARM Embedded\6 2017-q2-update\arm-none-eabi\include\sys\_types.h"
-CMakeFiles\repl.dir\sequencer.c.obj: "C:\Program Files (x86)\GNU Tools ARM Embedded\6 2017-q2-update\arm-none-eabi\include\machine\_types.h"
-CMakeFiles\repl.dir\sequencer.c.obj: "C:\Program Files (x86)\GNU Tools ARM Embedded\6 2017-q2-update\arm-none-eabi\include\sys\lock.h"
-CMakeFiles\repl.dir\sequencer.c.obj: "C:\Program Files (x86)\GNU Tools ARM Embedded\6 2017-q2-update\arm-none-eabi\include\sys\types.h"
-CMakeFiles\repl.dir\sequencer.c.obj: "C:\Program Files (x86)\GNU Tools ARM Embedded\6 2017-q2-update\arm-none-eabi\include\sys\_stdint.h"
-CMakeFiles\repl.dir\sequencer.c.obj: "C:\Program Files (x86)\GNU Tools ARM Embedded\6 2017-q2-update\arm-none-eabi\include\machine\endian.h"
-CMakeFiles\repl.dir\sequencer.c.obj: "C:\Program Files (x86)\GNU Tools ARM Embedded\6 2017-q2-update\arm-none-eabi\include\machine\_endian.h"
-CMakeFiles\repl.dir\sequencer.c.obj: "C:\Program Files (x86)\GNU Tools ARM Embedded\6 2017-q2-update\arm-none-eabi\include\sys\select.h"
-CMakeFiles\repl.dir\sequencer.c.obj: "C:\Program Files (x86)\GNU Tools ARM Embedded\6 2017-q2-update\arm-none-eabi\include\sys\_sigset.h"
-CMakeFiles\repl.dir\sequencer.c.obj: "C:\Program Files (x86)\GNU Tools ARM Embedded\6 2017-q2-update\arm-none-eabi\include\sys\_timeval.h"
-CMakeFiles\repl.dir\sequencer.c.obj: "C:\Program Files (x86)\GNU Tools ARM Embedded\6 2017-q2-update\arm-none-eabi\include\sys\timespec.h"
-CMakeFiles\repl.dir\sequencer.c.obj: "C:\Program Files (x86)\GNU Tools ARM Embedded\6 2017-q2-update\arm-none-eabi\include\sys\_timespec.h"
-CMakeFiles\repl.dir\sequencer.c.obj: "C:\Program Files (x86)\GNU Tools ARM Embedded\6 2017-q2-update\arm-none-eabi\include\sys\_pthreadtypes.h"
-CMakeFiles\repl.dir\sequencer.c.obj: "C:\Program Files (x86)\GNU Tools ARM Embedded\6 2017-q2-update\arm-none-eabi\include\machine\types.h"
-CMakeFiles\repl.dir\sequencer.c.obj: "C:\Program Files (x86)\GNU Tools ARM Embedded\6 2017-q2-update\arm-none-eabi\include\sys\stdio.h"
-CMakeFiles\repl.dir\sequencer.c.obj: "C:\Program Files (x86)\GNU Tools ARM Embedded\6 2017-q2-update\arm-none-eabi\include\stdlib.h"
-CMakeFiles\repl.dir\sequencer.c.obj: "C:\Program Files (x86)\GNU Tools ARM Embedded\6 2017-q2-update\arm-none-eabi\include\machine\stdlib.h"
-CMakeFiles\repl.dir\sequencer.c.obj: "C:\Program Files (x86)\GNU Tools ARM Embedded\6 2017-q2-update\arm-none-eabi\include\alloca.h"
 CMakeFiles\repl.dir\sequencer.c.obj: C:\Users\pico\pico-sdk\src\common\pico_stdlib\include\pico\stdlib.h
 CMakeFiles\repl.dir\sequencer.c.obj: C:\Users\pico\pico-sdk\src\common\pico_base\include\pico.h
 CMakeFiles\repl.dir\sequencer.c.obj: C:\Users\pico\pico-sdk\src\common\pico_base\include\pico\types.h
 CMakeFiles\repl.dir\sequencer.c.obj: C:\Users\pico\pico-sdk\src\common\pico_base\include\pico\assert.h
 CMakeFiles\repl.dir\sequencer.c.obj: "C:\Program Files (x86)\GNU Tools ARM Embedded\6 2017-q2-update\lib\gcc\arm-none-eabi\6.3.1\include\stdbool.h"
 CMakeFiles\repl.dir\sequencer.c.obj: "C:\Program Files (x86)\GNU Tools ARM Embedded\6 2017-q2-update\arm-none-eabi\include\assert.h"
+CMakeFiles\repl.dir\sequencer.c.obj: "C:\Program Files (x86)\GNU Tools ARM Embedded\6 2017-q2-update\arm-none-eabi\include\_ansi.h"
+CMakeFiles\repl.dir\sequencer.c.obj: "C:\Program Files (x86)\GNU Tools ARM Embedded\6 2017-q2-update\arm-none-eabi\include\newlib.h"
+CMakeFiles\repl.dir\sequencer.c.obj: "C:\Program Files (x86)\GNU Tools ARM Embedded\6 2017-q2-update\arm-none-eabi\include\_newlib_version.h"
+CMakeFiles\repl.dir\sequencer.c.obj: "C:\Program Files (x86)\GNU Tools ARM Embedded\6 2017-q2-update\arm-none-eabi\include\sys\config.h"
+CMakeFiles\repl.dir\sequencer.c.obj: "C:\Program Files (x86)\GNU Tools ARM Embedded\6 2017-q2-update\arm-none-eabi\include\machine\ieeefp.h"
+CMakeFiles\repl.dir\sequencer.c.obj: "C:\Program Files (x86)\GNU Tools ARM Embedded\6 2017-q2-update\arm-none-eabi\include\sys\features.h"
 CMakeFiles\repl.dir\sequencer.c.obj: "C:\Program Files (x86)\GNU Tools ARM Embedded\6 2017-q2-update\lib\gcc\arm-none-eabi\6.3.1\include\stdint.h"
 CMakeFiles\repl.dir\sequencer.c.obj: "C:\Program Files (x86)\GNU Tools ARM Embedded\6 2017-q2-update\arm-none-eabi\include\stdint.h"
+CMakeFiles\repl.dir\sequencer.c.obj: "C:\Program Files (x86)\GNU Tools ARM Embedded\6 2017-q2-update\arm-none-eabi\include\machine\_default_types.h"
 CMakeFiles\repl.dir\sequencer.c.obj: "C:\Program Files (x86)\GNU Tools ARM Embedded\6 2017-q2-update\arm-none-eabi\include\sys\_intsup.h"
+CMakeFiles\repl.dir\sequencer.c.obj: "C:\Program Files (x86)\GNU Tools ARM Embedded\6 2017-q2-update\arm-none-eabi\include\sys\_stdint.h"
+CMakeFiles\repl.dir\sequencer.c.obj: "C:\Program Files (x86)\GNU Tools ARM Embedded\6 2017-q2-update\lib\gcc\arm-none-eabi\6.3.1\include\stddef.h"
 CMakeFiles\repl.dir\sequencer.c.obj: generated\pico_base\pico\version.h
 CMakeFiles\repl.dir\sequencer.c.obj: C:\Users\pico\pico-sdk\src\common\pico_base\include\pico\config.h
 CMakeFiles\repl.dir\sequencer.c.obj: generated\pico_base\pico\config_autogen.h
@@ -2948,6 +3064,7 @@ CMakeFiles\repl.dir\sequencer.c.obj: C:\Users\pico\pico-sdk\src\rp2_common\pico_
 CMakeFiles\repl.dir\sequencer.c.obj: C:\Users\pico\pico-sdk\src\rp2040\hardware_regs\include\hardware\platform_defs.h
 CMakeFiles\repl.dir\sequencer.c.obj: C:\Users\pico\pico-sdk\src\rp2040\hardware_regs\include\hardware\regs\addressmap.h
 CMakeFiles\repl.dir\sequencer.c.obj: C:\Users\pico\pico-sdk\src\rp2040\hardware_regs\include\hardware\regs\sio.h
+CMakeFiles\repl.dir\sequencer.c.obj: "C:\Program Files (x86)\GNU Tools ARM Embedded\6 2017-q2-update\arm-none-eabi\include\sys\cdefs.h"
 CMakeFiles\repl.dir\sequencer.c.obj: C:\Users\pico\pico-sdk\src\common\pico_base\include\pico\types.h
 CMakeFiles\repl.dir\sequencer.c.obj: C:\Users\pico\pico-sdk\src\common\pico_base\include\pico\error.h
 CMakeFiles\repl.dir\sequencer.c.obj: C:\Users\pico\pico-sdk\src\rp2_common\pico_stdio\include\pico\stdio.h
@@ -2971,7 +3088,35 @@ CMakeFiles\repl.dir\sequencer.c.obj: C:\Users\pico\pico-sdk\src\rp2040\hardware_
 CMakeFiles\repl.dir\sequencer.c.obj: C:\Users\pico\pico-sdk\src\rp2040\hardware_regs\include\hardware\regs\uart.h
 CMakeFiles\repl.dir\sequencer.c.obj: C:\Users\pico\pico-sdk\src\rp2040\hardware_regs\include\hardware\regs\dreq.h
 CMakeFiles\repl.dir\sequencer.c.obj: C:\Users\pico\pico-sdk\src\rp2_common\pico_stdio_usb\include\pico\stdio_usb.h
-CMakeFiles\repl.dir\sequencer.c.obj: C:\Users\24664\Desktop\REPL\ws2812\ws2812.h
+CMakeFiles\repl.dir\sequencer.c.obj: "C:\Program Files (x86)\GNU Tools ARM Embedded\6 2017-q2-update\arm-none-eabi\include\stdio.h"
+CMakeFiles\repl.dir\sequencer.c.obj: "C:\Program Files (x86)\GNU Tools ARM Embedded\6 2017-q2-update\lib\gcc\arm-none-eabi\6.3.1\include\stdarg.h"
+CMakeFiles\repl.dir\sequencer.c.obj: "C:\Program Files (x86)\GNU Tools ARM Embedded\6 2017-q2-update\arm-none-eabi\include\sys\reent.h"
+CMakeFiles\repl.dir\sequencer.c.obj: "C:\Program Files (x86)\GNU Tools ARM Embedded\6 2017-q2-update\arm-none-eabi\include\_ansi.h"
+CMakeFiles\repl.dir\sequencer.c.obj: "C:\Program Files (x86)\GNU Tools ARM Embedded\6 2017-q2-update\arm-none-eabi\include\sys\_types.h"
+CMakeFiles\repl.dir\sequencer.c.obj: "C:\Program Files (x86)\GNU Tools ARM Embedded\6 2017-q2-update\arm-none-eabi\include\machine\_types.h"
+CMakeFiles\repl.dir\sequencer.c.obj: "C:\Program Files (x86)\GNU Tools ARM Embedded\6 2017-q2-update\arm-none-eabi\include\sys\lock.h"
+CMakeFiles\repl.dir\sequencer.c.obj: "C:\Program Files (x86)\GNU Tools ARM Embedded\6 2017-q2-update\arm-none-eabi\include\sys\types.h"
+CMakeFiles\repl.dir\sequencer.c.obj: "C:\Program Files (x86)\GNU Tools ARM Embedded\6 2017-q2-update\arm-none-eabi\include\machine\endian.h"
+CMakeFiles\repl.dir\sequencer.c.obj: "C:\Program Files (x86)\GNU Tools ARM Embedded\6 2017-q2-update\arm-none-eabi\include\machine\_endian.h"
+CMakeFiles\repl.dir\sequencer.c.obj: "C:\Program Files (x86)\GNU Tools ARM Embedded\6 2017-q2-update\arm-none-eabi\include\sys\select.h"
+CMakeFiles\repl.dir\sequencer.c.obj: "C:\Program Files (x86)\GNU Tools ARM Embedded\6 2017-q2-update\arm-none-eabi\include\sys\_sigset.h"
+CMakeFiles\repl.dir\sequencer.c.obj: "C:\Program Files (x86)\GNU Tools ARM Embedded\6 2017-q2-update\arm-none-eabi\include\sys\_timeval.h"
+CMakeFiles\repl.dir\sequencer.c.obj: "C:\Program Files (x86)\GNU Tools ARM Embedded\6 2017-q2-update\arm-none-eabi\include\sys\timespec.h"
+CMakeFiles\repl.dir\sequencer.c.obj: "C:\Program Files (x86)\GNU Tools ARM Embedded\6 2017-q2-update\arm-none-eabi\include\sys\_timespec.h"
+CMakeFiles\repl.dir\sequencer.c.obj: "C:\Program Files (x86)\GNU Tools ARM Embedded\6 2017-q2-update\arm-none-eabi\include\sys\_pthreadtypes.h"
+CMakeFiles\repl.dir\sequencer.c.obj: "C:\Program Files (x86)\GNU Tools ARM Embedded\6 2017-q2-update\arm-none-eabi\include\machine\types.h"
+CMakeFiles\repl.dir\sequencer.c.obj: "C:\Program Files (x86)\GNU Tools ARM Embedded\6 2017-q2-update\arm-none-eabi\include\sys\stdio.h"
+CMakeFiles\repl.dir\sequencer.c.obj: C:\Users\24664\Desktop\REPL\neopixel.h
+CMakeFiles\repl.dir\sequencer.c.obj: C:\Users\24664\Desktop\REPL\repl.h
+CMakeFiles\repl.dir\sequencer.c.obj: C:\Users\24664\Desktop\REPL\generated\ws2812.pio.h
+CMakeFiles\repl.dir\sequencer.c.obj: C:\Users\pico\pico-sdk\src\rp2_common\hardware_pio\include\hardware\pio.h
+CMakeFiles\repl.dir\sequencer.c.obj: C:\Users\pico\pico-sdk\src\rp2040\hardware_structs\include\hardware\structs\pio.h
+CMakeFiles\repl.dir\sequencer.c.obj: C:\Users\pico\pico-sdk\src\rp2040\hardware_regs\include\hardware\regs\pio.h
+CMakeFiles\repl.dir\sequencer.c.obj: C:\Users\pico\pico-sdk\src\rp2_common\hardware_pio\include\hardware\pio_instructions.h
+CMakeFiles\repl.dir\sequencer.c.obj: C:\Users\pico\pico-sdk\src\rp2_common\hardware_clocks\include\hardware\clocks.h
+CMakeFiles\repl.dir\sequencer.c.obj: C:\Users\pico\pico-sdk\src\rp2040\hardware_structs\include\hardware\structs\clocks.h
+CMakeFiles\repl.dir\sequencer.c.obj: C:\Users\pico\pico-sdk\src\rp2040\hardware_regs\include\hardware\regs\clocks.h
+CMakeFiles\repl.dir\sequencer.c.obj: "C:\Program Files (x86)\GNU Tools ARM Embedded\6 2017-q2-update\arm-none-eabi\include\inttypes.h"
 
 
 CMakeFiles\repl.dir\ws2812.c.obj: C:\Users\24664\Desktop\REPL\ws2812.c
@@ -3167,6 +3312,8 @@ C:\Users\pico\pico-sdk\src\rp2040\hardware_regs\include\hardware\platform_defs.h
 
 C:\Users\pico\pico-sdk\src\rp2040\hardware_regs\include\hardware\regs\addressmap.h:
 
+C:\Users\24664\Desktop\REPL\neopixel.h:
+
 C:\Users\pico\pico-sdk\src\rp2040\hardware_regs\include\hardware\regs\sio.h:
 
 "C:\Program Files (x86)\GNU Tools ARM Embedded\6 2017-q2-update\arm-none-eabi\include\sys\timespec.h":
@@ -3248,6 +3395,8 @@ C:\Users\pico\pico-sdk\lib\tinyusb\src\class\cdc\cdc.h:
 C:\Users\pico\pico-sdk\src\rp2040\hardware_structs\include\hardware\structs\interp.h:
 
 C:\Users\pico\pico-sdk\lib\tinyusb\src\class\dfu\dfu_device.c:
+
+C:\Users\24664\Desktop\REPL\registers.h:
 
 C:\Users\pico\pico-sdk\lib\tinyusb\src\class\dfu\dfu_rt_device.c:
 
@@ -3379,6 +3528,8 @@ C:\Users\pico\pico-sdk\src\rp2_common\hardware_xosc\include\hardware\xosc.h:
 
 C:\Users\pico\pico-sdk\src\rp2040\hardware_structs\include\hardware\structs\xosc.h:
 
+C:\Users\24664\Desktop\REPL\repl.c:
+
 C:\Users\pico\pico-sdk\src\rp2040\hardware_regs\include\hardware\regs\xosc.h:
 
 C:\Users\pico\pico-sdk\src\rp2040\hardware_regs\include\hardware\regs\io_bank0.h:
@@ -3507,8 +3658,10 @@ C:\Users\pico\pico-sdk\src\common\pico_stdlib\include\pico\stdlib.h:
 
 C:\Users\pico\pico-sdk\src\rp2_common\pico_unique_id\unique_id.c:
 
-C:\Users\24664\Desktop\REPL\ws2812\ws2812.h:
-
-C:\Users\24664\Desktop\REPL\ws2812.c:
+C:\Users\24664\Desktop\REPL\neopixel.c:
 
 C:\Users\24664\Desktop\REPL\generated\ws2812.pio.h:
+
+C:\Users\24664\Desktop\REPL\repl.h:
+
+C:\Users\24664\Desktop\REPL\ws2812.c:

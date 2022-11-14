@@ -2898,8 +2898,60 @@ CMakeFiles/repl.dir/C_/Users/pico/pico-sdk/src/rp2_common/pico_unique_id/unique_
  C:/Users/pico/pico-sdk/src/common/pico_base/include/pico/error.h
  C:/Users/pico/pico-sdk/src/rp2_common/pico_unique_id/include/pico/unique_id.h
 
-CMakeFiles/repl.dir/sequencer.c.obj
- C:/Users/24664/Desktop/REPL/sequencer.c
+CMakeFiles/repl.dir/neopixel.c.obj
+ C:/Users/24664/Desktop/REPL/neopixel.c
+ C:/Users/pico/pico-sdk/src/rp2_common/hardware_pio/include/hardware/pio.h
+ C:/Users/pico/pico-sdk/src/common/pico_base/include/pico.h
+ C:/Users/pico/pico-sdk/src/common/pico_base/include/pico/types.h
+ C:/Users/pico/pico-sdk/src/common/pico_base/include/pico/assert.h
+ C:/Program Files (x86)/GNU Tools ARM Embedded/6 2017-q2-update/lib/gcc/arm-none-eabi/6.3.1/include/stdbool.h
+ C:/Program Files (x86)/GNU Tools ARM Embedded/6 2017-q2-update/arm-none-eabi/include/assert.h
+ C:/Program Files (x86)/GNU Tools ARM Embedded/6 2017-q2-update/arm-none-eabi/include/_ansi.h
+ C:/Program Files (x86)/GNU Tools ARM Embedded/6 2017-q2-update/arm-none-eabi/include/newlib.h
+ C:/Program Files (x86)/GNU Tools ARM Embedded/6 2017-q2-update/arm-none-eabi/include/_newlib_version.h
+ C:/Program Files (x86)/GNU Tools ARM Embedded/6 2017-q2-update/arm-none-eabi/include/sys/config.h
+ C:/Program Files (x86)/GNU Tools ARM Embedded/6 2017-q2-update/arm-none-eabi/include/machine/ieeefp.h
+ C:/Program Files (x86)/GNU Tools ARM Embedded/6 2017-q2-update/arm-none-eabi/include/sys/features.h
+ C:/Program Files (x86)/GNU Tools ARM Embedded/6 2017-q2-update/lib/gcc/arm-none-eabi/6.3.1/include/stdint.h
+ C:/Program Files (x86)/GNU Tools ARM Embedded/6 2017-q2-update/arm-none-eabi/include/stdint.h
+ C:/Program Files (x86)/GNU Tools ARM Embedded/6 2017-q2-update/arm-none-eabi/include/machine/_default_types.h
+ C:/Program Files (x86)/GNU Tools ARM Embedded/6 2017-q2-update/arm-none-eabi/include/sys/_intsup.h
+ C:/Program Files (x86)/GNU Tools ARM Embedded/6 2017-q2-update/arm-none-eabi/include/sys/_stdint.h
+ C:/Program Files (x86)/GNU Tools ARM Embedded/6 2017-q2-update/lib/gcc/arm-none-eabi/6.3.1/include/stddef.h
+ C:/Users/24664/Desktop/REPL/build/generated/pico_base/pico/version.h
+ C:/Users/pico/pico-sdk/src/common/pico_base/include/pico/config.h
+ C:/Users/24664/Desktop/REPL/build/generated/pico_base/pico/config_autogen.h
+ C:/Users/pico/pico-sdk/src/boards/include/boards/pico.h
+ C:/Users/pico/pico-sdk/src/rp2_common/cmsis/include/cmsis/rename_exceptions.h
+ C:/Users/pico/pico-sdk/src/rp2_common/pico_platform/include/pico/platform.h
+ C:/Users/pico/pico-sdk/src/rp2040/hardware_regs/include/hardware/platform_defs.h
+ C:/Users/pico/pico-sdk/src/rp2040/hardware_regs/include/hardware/regs/addressmap.h
+ C:/Users/pico/pico-sdk/src/rp2040/hardware_regs/include/hardware/regs/sio.h
+ C:/Program Files (x86)/GNU Tools ARM Embedded/6 2017-q2-update/arm-none-eabi/include/sys/cdefs.h
+ C:/Users/pico/pico-sdk/src/common/pico_base/include/pico/types.h
+ C:/Users/pico/pico-sdk/src/common/pico_base/include/pico/error.h
+ C:/Users/pico/pico-sdk/src/rp2_common/hardware_base/include/hardware/address_mapped.h
+ C:/Users/pico/pico-sdk/src/rp2040/hardware_structs/include/hardware/structs/pio.h
+ C:/Users/pico/pico-sdk/src/rp2040/hardware_regs/include/hardware/regs/pio.h
+ C:/Users/pico/pico-sdk/src/rp2_common/hardware_gpio/include/hardware/gpio.h
+ C:/Users/pico/pico-sdk/src/rp2040/hardware_structs/include/hardware/structs/sio.h
+ C:/Users/pico/pico-sdk/src/rp2040/hardware_structs/include/hardware/structs/interp.h
+ C:/Users/pico/pico-sdk/src/rp2040/hardware_structs/include/hardware/structs/padsbank0.h
+ C:/Users/pico/pico-sdk/src/rp2040/hardware_regs/include/hardware/regs/pads_bank0.h
+ C:/Users/pico/pico-sdk/src/rp2040/hardware_structs/include/hardware/structs/iobank0.h
+ C:/Users/pico/pico-sdk/src/rp2040/hardware_regs/include/hardware/regs/io_bank0.h
+ C:/Users/pico/pico-sdk/src/rp2_common/hardware_irq/include/hardware/irq.h
+ C:/Users/pico/pico-sdk/src/rp2040/hardware_regs/include/hardware/regs/intctrl.h
+ C:/Users/pico/pico-sdk/src/rp2040/hardware_regs/include/hardware/regs/m0plus.h
+ C:/Users/pico/pico-sdk/src/rp2040/hardware_regs/include/hardware/regs/dreq.h
+ C:/Users/pico/pico-sdk/src/rp2_common/hardware_pio/include/hardware/pio_instructions.h
+ C:/Users/24664/Desktop/REPL/generated/ws2812.pio.h
+ C:/Users/pico/pico-sdk/src/rp2_common/hardware_clocks/include/hardware/clocks.h
+ C:/Users/pico/pico-sdk/src/rp2040/hardware_structs/include/hardware/structs/clocks.h
+ C:/Users/pico/pico-sdk/src/rp2040/hardware_regs/include/hardware/regs/clocks.h
+
+CMakeFiles/repl.dir/repl.c.obj
+ C:/Users/24664/Desktop/REPL/repl.c
  C:/Program Files (x86)/GNU Tools ARM Embedded/6 2017-q2-update/arm-none-eabi/include/stdio.h
  C:/Program Files (x86)/GNU Tools ARM Embedded/6 2017-q2-update/arm-none-eabi/include/_ansi.h
  C:/Program Files (x86)/GNU Tools ARM Embedded/6 2017-q2-update/arm-none-eabi/include/newlib.h
@@ -2931,6 +2983,9 @@ CMakeFiles/repl.dir/sequencer.c.obj
  C:/Program Files (x86)/GNU Tools ARM Embedded/6 2017-q2-update/arm-none-eabi/include/stdlib.h
  C:/Program Files (x86)/GNU Tools ARM Embedded/6 2017-q2-update/arm-none-eabi/include/machine/stdlib.h
  C:/Program Files (x86)/GNU Tools ARM Embedded/6 2017-q2-update/arm-none-eabi/include/alloca.h
+ C:/Program Files (x86)/GNU Tools ARM Embedded/6 2017-q2-update/arm-none-eabi/include/string.h
+ C:/Program Files (x86)/GNU Tools ARM Embedded/6 2017-q2-update/arm-none-eabi/include/xlocale.h
+ C:/Program Files (x86)/GNU Tools ARM Embedded/6 2017-q2-update/arm-none-eabi/include/sys/string.h
  C:/Users/pico/pico-sdk/src/common/pico_stdlib/include/pico/stdlib.h
  C:/Users/pico/pico-sdk/src/common/pico_base/include/pico.h
  C:/Users/pico/pico-sdk/src/common/pico_base/include/pico/types.h
@@ -2972,7 +3027,97 @@ CMakeFiles/repl.dir/sequencer.c.obj
  C:/Users/pico/pico-sdk/src/rp2040/hardware_regs/include/hardware/regs/uart.h
  C:/Users/pico/pico-sdk/src/rp2040/hardware_regs/include/hardware/regs/dreq.h
  C:/Users/pico/pico-sdk/src/rp2_common/pico_stdio_usb/include/pico/stdio_usb.h
- C:/Users/24664/Desktop/REPL/ws2812/ws2812.h
+ C:/Users/24664/Desktop/REPL/registers.h
+ C:/Users/pico/pico-sdk/src/rp2_common/hardware_pio/include/hardware/pio.h
+ C:/Users/pico/pico-sdk/src/rp2040/hardware_structs/include/hardware/structs/pio.h
+ C:/Users/pico/pico-sdk/src/rp2040/hardware_regs/include/hardware/regs/pio.h
+ C:/Users/pico/pico-sdk/src/rp2_common/hardware_pio/include/hardware/pio_instructions.h
+ C:/Users/pico/pico-sdk/src/rp2_common/hardware_clocks/include/hardware/clocks.h
+ C:/Users/pico/pico-sdk/src/rp2040/hardware_structs/include/hardware/structs/clocks.h
+ C:/Users/pico/pico-sdk/src/rp2040/hardware_regs/include/hardware/regs/clocks.h
+
+CMakeFiles/repl.dir/sequencer.c.obj
+ C:/Users/24664/Desktop/REPL/sequencer.c
+ C:/Users/pico/pico-sdk/src/common/pico_stdlib/include/pico/stdlib.h
+ C:/Users/pico/pico-sdk/src/common/pico_base/include/pico.h
+ C:/Users/pico/pico-sdk/src/common/pico_base/include/pico/types.h
+ C:/Users/pico/pico-sdk/src/common/pico_base/include/pico/assert.h
+ C:/Program Files (x86)/GNU Tools ARM Embedded/6 2017-q2-update/lib/gcc/arm-none-eabi/6.3.1/include/stdbool.h
+ C:/Program Files (x86)/GNU Tools ARM Embedded/6 2017-q2-update/arm-none-eabi/include/assert.h
+ C:/Program Files (x86)/GNU Tools ARM Embedded/6 2017-q2-update/arm-none-eabi/include/_ansi.h
+ C:/Program Files (x86)/GNU Tools ARM Embedded/6 2017-q2-update/arm-none-eabi/include/newlib.h
+ C:/Program Files (x86)/GNU Tools ARM Embedded/6 2017-q2-update/arm-none-eabi/include/_newlib_version.h
+ C:/Program Files (x86)/GNU Tools ARM Embedded/6 2017-q2-update/arm-none-eabi/include/sys/config.h
+ C:/Program Files (x86)/GNU Tools ARM Embedded/6 2017-q2-update/arm-none-eabi/include/machine/ieeefp.h
+ C:/Program Files (x86)/GNU Tools ARM Embedded/6 2017-q2-update/arm-none-eabi/include/sys/features.h
+ C:/Program Files (x86)/GNU Tools ARM Embedded/6 2017-q2-update/lib/gcc/arm-none-eabi/6.3.1/include/stdint.h
+ C:/Program Files (x86)/GNU Tools ARM Embedded/6 2017-q2-update/arm-none-eabi/include/stdint.h
+ C:/Program Files (x86)/GNU Tools ARM Embedded/6 2017-q2-update/arm-none-eabi/include/machine/_default_types.h
+ C:/Program Files (x86)/GNU Tools ARM Embedded/6 2017-q2-update/arm-none-eabi/include/sys/_intsup.h
+ C:/Program Files (x86)/GNU Tools ARM Embedded/6 2017-q2-update/arm-none-eabi/include/sys/_stdint.h
+ C:/Program Files (x86)/GNU Tools ARM Embedded/6 2017-q2-update/lib/gcc/arm-none-eabi/6.3.1/include/stddef.h
+ C:/Users/24664/Desktop/REPL/build/generated/pico_base/pico/version.h
+ C:/Users/pico/pico-sdk/src/common/pico_base/include/pico/config.h
+ C:/Users/24664/Desktop/REPL/build/generated/pico_base/pico/config_autogen.h
+ C:/Users/pico/pico-sdk/src/boards/include/boards/pico.h
+ C:/Users/pico/pico-sdk/src/rp2_common/cmsis/include/cmsis/rename_exceptions.h
+ C:/Users/pico/pico-sdk/src/rp2_common/pico_platform/include/pico/platform.h
+ C:/Users/pico/pico-sdk/src/rp2040/hardware_regs/include/hardware/platform_defs.h
+ C:/Users/pico/pico-sdk/src/rp2040/hardware_regs/include/hardware/regs/addressmap.h
+ C:/Users/pico/pico-sdk/src/rp2040/hardware_regs/include/hardware/regs/sio.h
+ C:/Program Files (x86)/GNU Tools ARM Embedded/6 2017-q2-update/arm-none-eabi/include/sys/cdefs.h
+ C:/Users/pico/pico-sdk/src/common/pico_base/include/pico/types.h
+ C:/Users/pico/pico-sdk/src/common/pico_base/include/pico/error.h
+ C:/Users/pico/pico-sdk/src/rp2_common/pico_stdio/include/pico/stdio.h
+ C:/Users/pico/pico-sdk/src/common/pico_time/include/pico/time.h
+ C:/Users/pico/pico-sdk/src/rp2_common/hardware_timer/include/hardware/timer.h
+ C:/Users/pico/pico-sdk/src/rp2040/hardware_structs/include/hardware/structs/timer.h
+ C:/Users/pico/pico-sdk/src/rp2_common/hardware_base/include/hardware/address_mapped.h
+ C:/Users/pico/pico-sdk/src/rp2040/hardware_regs/include/hardware/regs/timer.h
+ C:/Users/pico/pico-sdk/src/rp2_common/hardware_gpio/include/hardware/gpio.h
+ C:/Users/pico/pico-sdk/src/rp2040/hardware_structs/include/hardware/structs/sio.h
+ C:/Users/pico/pico-sdk/src/rp2040/hardware_structs/include/hardware/structs/interp.h
+ C:/Users/pico/pico-sdk/src/rp2040/hardware_structs/include/hardware/structs/padsbank0.h
+ C:/Users/pico/pico-sdk/src/rp2040/hardware_regs/include/hardware/regs/pads_bank0.h
+ C:/Users/pico/pico-sdk/src/rp2040/hardware_structs/include/hardware/structs/iobank0.h
+ C:/Users/pico/pico-sdk/src/rp2040/hardware_regs/include/hardware/regs/io_bank0.h
+ C:/Users/pico/pico-sdk/src/rp2_common/hardware_irq/include/hardware/irq.h
+ C:/Users/pico/pico-sdk/src/rp2040/hardware_regs/include/hardware/regs/intctrl.h
+ C:/Users/pico/pico-sdk/src/rp2040/hardware_regs/include/hardware/regs/m0plus.h
+ C:/Users/pico/pico-sdk/src/rp2_common/hardware_uart/include/hardware/uart.h
+ C:/Users/pico/pico-sdk/src/rp2040/hardware_structs/include/hardware/structs/uart.h
+ C:/Users/pico/pico-sdk/src/rp2040/hardware_regs/include/hardware/regs/uart.h
+ C:/Users/pico/pico-sdk/src/rp2040/hardware_regs/include/hardware/regs/dreq.h
+ C:/Users/pico/pico-sdk/src/rp2_common/pico_stdio_usb/include/pico/stdio_usb.h
+ C:/Program Files (x86)/GNU Tools ARM Embedded/6 2017-q2-update/arm-none-eabi/include/stdio.h
+ C:/Program Files (x86)/GNU Tools ARM Embedded/6 2017-q2-update/lib/gcc/arm-none-eabi/6.3.1/include/stdarg.h
+ C:/Program Files (x86)/GNU Tools ARM Embedded/6 2017-q2-update/arm-none-eabi/include/sys/reent.h
+ C:/Program Files (x86)/GNU Tools ARM Embedded/6 2017-q2-update/arm-none-eabi/include/_ansi.h
+ C:/Program Files (x86)/GNU Tools ARM Embedded/6 2017-q2-update/arm-none-eabi/include/sys/_types.h
+ C:/Program Files (x86)/GNU Tools ARM Embedded/6 2017-q2-update/arm-none-eabi/include/machine/_types.h
+ C:/Program Files (x86)/GNU Tools ARM Embedded/6 2017-q2-update/arm-none-eabi/include/sys/lock.h
+ C:/Program Files (x86)/GNU Tools ARM Embedded/6 2017-q2-update/arm-none-eabi/include/sys/types.h
+ C:/Program Files (x86)/GNU Tools ARM Embedded/6 2017-q2-update/arm-none-eabi/include/machine/endian.h
+ C:/Program Files (x86)/GNU Tools ARM Embedded/6 2017-q2-update/arm-none-eabi/include/machine/_endian.h
+ C:/Program Files (x86)/GNU Tools ARM Embedded/6 2017-q2-update/arm-none-eabi/include/sys/select.h
+ C:/Program Files (x86)/GNU Tools ARM Embedded/6 2017-q2-update/arm-none-eabi/include/sys/_sigset.h
+ C:/Program Files (x86)/GNU Tools ARM Embedded/6 2017-q2-update/arm-none-eabi/include/sys/_timeval.h
+ C:/Program Files (x86)/GNU Tools ARM Embedded/6 2017-q2-update/arm-none-eabi/include/sys/timespec.h
+ C:/Program Files (x86)/GNU Tools ARM Embedded/6 2017-q2-update/arm-none-eabi/include/sys/_timespec.h
+ C:/Program Files (x86)/GNU Tools ARM Embedded/6 2017-q2-update/arm-none-eabi/include/sys/_pthreadtypes.h
+ C:/Program Files (x86)/GNU Tools ARM Embedded/6 2017-q2-update/arm-none-eabi/include/machine/types.h
+ C:/Program Files (x86)/GNU Tools ARM Embedded/6 2017-q2-update/arm-none-eabi/include/sys/stdio.h
+ C:/Users/24664/Desktop/REPL/neopixel.h
+ C:/Users/24664/Desktop/REPL/repl.h
+ C:/Users/24664/Desktop/REPL/generated/ws2812.pio.h
+ C:/Users/pico/pico-sdk/src/rp2_common/hardware_pio/include/hardware/pio.h
+ C:/Users/pico/pico-sdk/src/rp2040/hardware_structs/include/hardware/structs/pio.h
+ C:/Users/pico/pico-sdk/src/rp2040/hardware_regs/include/hardware/regs/pio.h
+ C:/Users/pico/pico-sdk/src/rp2_common/hardware_pio/include/hardware/pio_instructions.h
+ C:/Users/pico/pico-sdk/src/rp2_common/hardware_clocks/include/hardware/clocks.h
+ C:/Users/pico/pico-sdk/src/rp2040/hardware_structs/include/hardware/structs/clocks.h
+ C:/Users/pico/pico-sdk/src/rp2040/hardware_regs/include/hardware/regs/clocks.h
+ C:/Program Files (x86)/GNU Tools ARM Embedded/6 2017-q2-update/arm-none-eabi/include/inttypes.h
 
 CMakeFiles/repl.dir/ws2812.c.obj
  C:/Users/24664/Desktop/REPL/ws2812.c

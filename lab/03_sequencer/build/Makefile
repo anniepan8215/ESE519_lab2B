@@ -1702,6 +1702,54 @@ C_\Users\pico\pico-sdk\src\rp2_common\pico_unique_id\unique_id.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\repl.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\repl.dir\C_\Users\pico\pico-sdk\src\rp2_common\pico_unique_id\unique_id.c.s
 .PHONY : C_\Users\pico\pico-sdk\src\rp2_common\pico_unique_id\unique_id.c.s
 
+neopixel.obj: neopixel.c.obj
+.PHONY : neopixel.obj
+
+# target to build an object file
+neopixel.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\repl.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\repl.dir\neopixel.c.obj
+.PHONY : neopixel.c.obj
+
+neopixel.i: neopixel.c.i
+.PHONY : neopixel.i
+
+# target to preprocess a source file
+neopixel.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\repl.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\repl.dir\neopixel.c.i
+.PHONY : neopixel.c.i
+
+neopixel.s: neopixel.c.s
+.PHONY : neopixel.s
+
+# target to generate assembly for a file
+neopixel.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\repl.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\repl.dir\neopixel.c.s
+.PHONY : neopixel.c.s
+
+repl.obj: repl.c.obj
+.PHONY : repl.obj
+
+# target to build an object file
+repl.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\repl.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\repl.dir\repl.c.obj
+.PHONY : repl.c.obj
+
+repl.i: repl.c.i
+.PHONY : repl.i
+
+# target to preprocess a source file
+repl.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\repl.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\repl.dir\repl.c.i
+.PHONY : repl.c.i
+
+repl.s: repl.c.s
+.PHONY : repl.s
+
+# target to generate assembly for a file
+repl.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\repl.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\repl.dir\repl.c.s
+.PHONY : repl.c.s
+
 sequencer.obj: sequencer.c.obj
 .PHONY : sequencer.obj
 
@@ -1952,6 +2000,12 @@ help:
 	@echo ... C_/Users/pico/pico-sdk/src/rp2_common/pico_unique_id/unique_id.obj
 	@echo ... C_/Users/pico/pico-sdk/src/rp2_common/pico_unique_id/unique_id.i
 	@echo ... C_/Users/pico/pico-sdk/src/rp2_common/pico_unique_id/unique_id.s
+	@echo ... neopixel.obj
+	@echo ... neopixel.i
+	@echo ... neopixel.s
+	@echo ... repl.obj
+	@echo ... repl.i
+	@echo ... repl.s
 	@echo ... sequencer.obj
 	@echo ... sequencer.i
 	@echo ... sequencer.s

@@ -1,12 +1,20 @@
-#include <stdio.h>
-#include <stdlib.h>
 #include "pico/stdlib.h"
-#include "ws2812/ws2812.h"
+#include <stdio.h>
+#include "neopixel.h"
+#include "hardware/gpio.h"
+#include "repl.h"
+#include "ws2812.pio.h" // pio0
+#include <inttypes.h>
 #define button_pin 21
 //Refered to as the base address of user bank IO registers
 #define base 0x40014000
-
-
+volatile uint32_t * boot_pin_address;
+uint32_t full_gpio_register_value;
+uint32_t pin_21_selection_mask;
+uint32_t select_pin_state;
+uint32_t shifted_pin_21_state;
+#define READ 'r'
+#define WRITE 'w'
 typedef void (*pattern)(uint len, uint t);
 const struct {
     uint32_t color;
@@ -34,6 +42,8 @@ void macros() {
     }
 }
 
+
+
 int main() {
     stdio_init_all();
     neopixel_init();
@@ -46,22 +56,22 @@ int main() {
     status.last_serial_byte = 0x00000000;
     status.button_is_pressed = 0x00000000;
     status.light_color = 0x000000ff; //Blue color
-
-    uint32_t* add;
-    uint32_t* ctrl;
     int recording_flag = 0;
-    add = base + 0x0a8;  //GPIO status
-    ctrl = base + 0x0ac; //GPIO control including function select and overrides
-
-    uint32_t button_value = *add;
-    uint32_t ctrl_value = *ctrl;
-    printf("control_value ==  %lu\n", ctrl_value);
-    printf("button_value ==  %lu\n", button_value);
-    printf("button_value gpio get==  %lu\n", gpio_get(button_pin));
+   
     while (true) {
 
         status.last_serial_byte = getchar_timeout_us(0);
         switch (status.last_serial_byte) { // poll every cycle
+        case 'r':
+            printf("r\n");
+            neopixel_set_rgb(0x00ff0000); //Red
+            Rread();
+            break;
+        case 'w':
+            printf("w\n");
+            neopixel_set_rgb(0x00ffffff); //White
+            Rwrite();
+            break;
         case 'p':
             status.button_is_pressed = 0x00000001;
             recording_flag = 1;
