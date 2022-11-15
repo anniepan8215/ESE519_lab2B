@@ -1,4 +1,4 @@
-# Instructions
+## Instructions
 | command | description | details |
 | :--| :--  |:-- |
 | 'record' | record|Running Python file 'sequencer.py' and store the record sequence in 'test.txt', push the 'BOOT' button in RP2040|
