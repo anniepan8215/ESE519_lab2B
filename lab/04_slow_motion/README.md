@@ -10,16 +10,21 @@
 
 ## Demo
 
-### slowdown
+### Normal Speed
 
-too big to upload, upload lately
+![](Media\Normal_Speed.gif)
+
+### slowdown
+![](Media\Lower_Speed.gif)
+
+
 
 ### speed up
 
-too big to upload, upload lately
+![](Media\Faster_Speed.gif)
 
 ### part
 
 The original recording time is 5s, and we replay it only from 1-4s.
 
-too big to upload, upload lately
+![](Media\Cut_Period.gif)
