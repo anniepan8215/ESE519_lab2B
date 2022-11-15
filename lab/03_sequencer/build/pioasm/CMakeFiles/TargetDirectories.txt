@@ -1,3 +1,0 @@
-C:/Users/24664/Desktop/REPL/build/pioasm/CMakeFiles/pioasm.dir
-C:/Users/24664/Desktop/REPL/build/pioasm/CMakeFiles/edit_cache.dir
-C:/Users/24664/Desktop/REPL/build/pioasm/CMakeFiles/rebuild_cache.dir
