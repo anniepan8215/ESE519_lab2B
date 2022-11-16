@@ -9,7 +9,6 @@ DMA maintains a 'counter' for each channel. Each 1-clock pulse for the 'dreq' si
 ```c
 channel_config_set_dreq(&c, pio_get_dreq(pio, sm, false));
 ```  
-### chaining 
 
 # PIO
 Functionality: there's two PIO and each of them can be used for any GPIOs ([1.4.3](https://datasheets.raspberrypi.com/rp2040/rp2040-datasheet.pdf))
@@ -24,5 +23,12 @@ individual pins it is interested in.
 
 For connecting a second Qt Py to the Stemma Qt bus of an ADPS9960 that's attached to a first Qt Py andrunning the Lab 1 Python code:
 
-
+![](https://github.com/anniepan8215/ESE519_lab2B/blob/main/Media/Circuit_Part6.jpg)
 The recorded trace are given as follows:  
+![](https://github.com/anniepan8215/ESE519_lab2B/blob/main/Media/No_Connected.jpg)(no connected)
+
+When connected:
+![](https://github.com/anniepan8215/ESE519_lab2B/blob/main/Media/RO2040PY1.jpg)
+
+![](https://github.com/anniepan8215/ESE519_lab2B/blob/main/Media/RP2040PY2.jpg)
+
