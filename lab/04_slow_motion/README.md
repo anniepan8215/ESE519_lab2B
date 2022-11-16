@@ -12,19 +12,17 @@
 
 ### Normal Speed
 
-![](Media\Normal_Speed.gif)
+![](https://github.com/anniepan8215/ESE519_lab2B/blob/main/Media/Normal_Speed.gif)
 
 ### slowdown
-![](Media\Lower_Speed.gif)
-
-
+![](https://github.com/anniepan8215/ESE519_lab2B/blob/main/Media/Lower_Speed.gif)
 
 ### speed up
 
-![](Media\Faster_Speed.gif)
+![](https://github.com/anniepan8215/ESE519_lab2B/blob/main/Media/Faster_Speed.gif)
 
 ### part
 
 The original recording time is 5s, and we replay it only from 1-4s.
 
-![](Media\Cut_Period.gif)
+![](https://github.com/anniepan8215/ESE519_lab2B/blob/main/Media/Cut_Period.gif)
