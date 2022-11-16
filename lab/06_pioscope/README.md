@@ -21,3 +21,8 @@ Memory <- RXF(auto `PUSH`) <- ISR(`IN`) <- GPIO
 # GPIO 
 Reading `GPIO_IN` returns all 30 GPIO values  in a single read. Software can then mask out
 individual pins it is interested in.
+
+For connecting a second Qt Py to the Stemma Qt bus of an ADPS9960 that's attached to a first Qt Py andrunning the Lab 1 Python code:
+
+
+The recorded trace are given as follows:  
