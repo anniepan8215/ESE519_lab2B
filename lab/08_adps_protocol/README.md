@@ -8,5 +8,6 @@ We plan to combining the regular i2c code with pio-i2c code and write our own pr
 
 The group designed a self implemented APDS9960.c file and enable the serial to read the APDS9960 protocol from the sensor and read the proximity data
 
-The demo is for proximity part is given as follows:
+The demo is for proximity part is given as follows:  
+
 ![](https://github.com/anniepan8215/ESE519_lab2B/blob/main/Media/lab9_proximity.gif)
