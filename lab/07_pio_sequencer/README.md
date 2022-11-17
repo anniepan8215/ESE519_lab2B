@@ -1,7 +1,3 @@
-### TODO:
-
-- modify your sequencer to use the PIO as its primary I/O engine, including the ability to R/W any register 
-
 ## Knowledge Background
 
 ### PIO
@@ -17,3 +13,8 @@
 
 <img width="500" alt="ISR" src="https://user-images.githubusercontent.com/87698138/202053950-e754dfd9-1913-4d67-9ff9-c2de96abd07b.png">
 
+## What it does
+
+We use PIO in to get the status of the boot button, it will capture 0 if you do not press it and return 1 when you press it.
+
+<img width="180" alt="bootpin" src="https://user-images.githubusercontent.com/87698138/202353599-ff524c45-9037-45d3-9b4e-4dbf3991054c.png">
