@@ -86,7 +86,7 @@ static void pio_i2c_wait_idle(PIO pio, uint sm) {
         tight_loop_contents();
 }
 
-int pio_i2c_write_blocking(PIO pio, uint sm, uint8_t addr, uint8_t *txbuf, uint len) {
+int pio_i2c_write_blocking(PIO pio, uint sm, uint8_t addr, uint8_t *txbuf, uint len,bool sign) {
     int err = 0;
     pio_i2c_start(pio, sm);
     pio_i2c_rx_enable(pio, sm, false);
@@ -97,7 +97,10 @@ int pio_i2c_write_blocking(PIO pio, uint sm, uint8_t addr, uint8_t *txbuf, uint 
             pio_i2c_put_or_err(pio, sm, (*txbuf++ << PIO_I2C_DATA_LSB) | ((len == 0) << PIO_I2C_FINAL_LSB) | 1u);
         }
     }
-    pio_i2c_stop(pio, sm);
+    if(!sign)
+    {
+        pio_i2c_stop(pio, sm);
+    }
     pio_i2c_wait_idle(pio, sm);
     if (pio_i2c_check_error(pio, sm)) {
         err = -1;
@@ -107,7 +110,7 @@ int pio_i2c_write_blocking(PIO pio, uint sm, uint8_t addr, uint8_t *txbuf, uint 
     return err;
 }
 
-int pio_i2c_read_blocking(PIO pio, uint sm, uint8_t addr, uint8_t *rxbuf, uint len) {
+int pio_i2c_read_blocking(PIO pio, uint sm, uint8_t addr, uint8_t *rxbuf, uint len,bool sign) {
     int err = 0;
     //!!!Modify the start into repstart
     pio_i2c_repstart(pio, sm);
