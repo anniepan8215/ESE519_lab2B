@@ -15,6 +15,6 @@
 
 ## What it does
 
-We use PIO in to get the status of the boot button, it will capture 0 if you do not press it and return 1 when you press it.
+We use PIO in to get the status of the boot button, it will capture 0 if you do not press it and return 1 when you press it. Press 'N' to stop!
 
 <img width="180" alt="bootpin" src="https://user-images.githubusercontent.com/87698138/202353599-ff524c45-9037-45d3-9b4e-4dbf3991054c.png">
