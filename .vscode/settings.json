@@ -5,6 +5,7 @@
     "C_Cpp.default.configurationProvider": "ms-vscode.cmake-tools",
     "cmake.generator": "Unix Makefiles",
     "files.associations": {
-        "stdbool.h": "c"
+        "stdbool.h": "c",
+        "ws2812.pio.h": "c"
     }
     }

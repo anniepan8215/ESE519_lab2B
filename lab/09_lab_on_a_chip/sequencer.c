@@ -26,7 +26,14 @@ typedef struct {
     uint32_t button_is_pressed;
     uint32_t light_color;
 } Sequencer; 
-
+static inline uint bits_packed_per_word(uint pin_count) {
+    // If the number of pins to be sampled divides the shift register size, we
+    // can use the full SR and FIFO width, and push when the input shift count
+    // exactly reaches 32. If not, we have to push earlier, so we use the FIFO
+    // a little less efficiently.
+    const uint SHIFT_REG_WIDTH = 32;
+    return SHIFT_REG_WIDTH - (SHIFT_REG_WIDTH % pin_count);
+}
 void logic_analyser_init(PIO pio, uint sm, uint pin_base, float div) {
     // Load a program to capture n pins. This is just a single `in pins, n`
     // instruction with a wrap.
@@ -80,5 +87,27 @@ bool get_gpio(const uint32_t *buf, uint pin){
     uint word_index = bit_index / SHIFT_REG_WIDTH;
     uint word_mask = 1u << (bit_index % SHIFT_REG_WIDTH);
     return(buf[word_index] & word_mask ? true : false);
+}
+
+void print_capture_buf(const uint32_t* buf, uint pin_base, uint pin_count, uint32_t n_samples) {
+    // Display the capture buffer in text form, like this:
+    // 00: __--__--__--__--__--__--
+    // 01: ____----____----____----
+    printf("Capture:\n");
+    // Each FIFO record may be only partially filled with bits, depending on
+    // whether pin_count is a factor of 32.
+    uint record_size_bits = bits_packed_per_word(pin_count);
+    for (int pin = 0; pin < pin_count; ++pin) {
+        printf("%02d: ", pin + pin_base);
+        for (int sample = 0; sample < n_samples; ++sample) {
+            uint bit_index = pin + sample * pin_count;
+            uint word_index = bit_index / record_size_bits;
+            // Data is left-justified in each FIFO entry, hence the (32 - record_size_bits) offset
+            uint word_mask = 1u << (bit_index % record_size_bits + 32 - record_size_bits);
+            //printf(buf[word_index] & word_mask ? "-" : "_");
+            printf(buf[word_index] & word_mask ? "1" : "0");
+        }
+        printf("\n");
+    }
 }
 

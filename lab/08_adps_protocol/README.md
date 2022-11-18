@@ -11,3 +11,4 @@ The group designed a self implemented APDS9960.c file and enable the serial to r
 The demo is for proximity part is given as follows:  
 
 ![](https://github.com/anniepan8215/ESE519_lab2B/blob/main/Media/lab9_proximity.gif)
+
