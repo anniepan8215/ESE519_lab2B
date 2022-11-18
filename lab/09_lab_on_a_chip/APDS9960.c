@@ -4,7 +4,6 @@
     based on PIO.I2C example in PICO_example
 
 */
-
 #include <stdio.h>
 #include <string.h>
 #include <stdbool.h>
@@ -12,13 +11,11 @@
 #include "pico/binary_info.h"
 #include "string.h"
 #include "pio_i2c.h"
-#include "APDS9960.h"
 
 #define ENABLE_REG _u(0x80)
 #define ALS_REG _u(0x81)
 #define PDATA_REG _u(0x9C)
 #define CDATAL _u(0x94)
-
 #define GEN 0 //cCorresponidng to gesture enable register
 #define AEN 1 //ALS Enable. The field activates ALS function and writing one activates the ALS. Writing a zero disables 
 //The ALS detection can detect light intensity data
@@ -47,8 +44,7 @@ void APDS9960_init() {
     buf[1] = ALS_TIME;
     pio_i2c_write_blocking(pio, sm, addr, buf, 2, false);
 }
-
-void readProximity(PIO pio, uint sm, int32_t* proximity)
+void readProximity(int32_t* proximity)
 {
     uint8_t buf[1];
     uint8_t proximityReg = PDATA_REG;
@@ -57,35 +53,18 @@ void readProximity(PIO pio, uint sm, int32_t* proximity)
     *proximity = buf[0];
 
 }
-
-void readRGBC(PIO pio, uint sm, int32_t* r, int32_t* g, int32_t* b, int32_t* c) {
-
+void readRGBC(int32_t* r, int32_t* g, int32_t *b, int32_t *c)
+{
+    //The shape of the buf is(8,2)
     uint8_t buf[2];
+    //buf[x,0] is lower byte, buf[x,1] is the higher byte
+    //buf[0 2 4 6] corresponding to byte color rgbc lower byte
+    //buf[1 3 5 7] corresponding to byte color rgbc higher byte
     uint8_t reg = CDATAL;
-    pio_i2c_write_blocking(pio, sm, addr, &reg, 1, true);  // true to keep master control of bus
-    pio_i2c_read_blocking(pio, sm, addr, buf, 8, false);  // false - finished with bus
-
-    *c = (buf[1] << 8) | buf[0]; // Clear channle Lower byte | Higher byte = full two byte clear data
+    pio_i2c_write_blocking(pio,sm,addr,&reg,1,true);
+    pio_i2c_read_blocking(pio,sm,addr,buf,1,false);
+    *c = (buf[1] << 8) | buf[0];
     *r = (buf[3] << 8) | buf[2];
     *g = (buf[5] << 8) | buf[4];
     *b = (buf[7] << 8) | buf[6];
-}
-
-int main() {
-    stdio_init_all();
-    uint offset = pio_add_program(pio, &i2c_program);
-    i2c_program_init(pio, sm, offset, PIN_SDA, PIN_SCL);
-    sleep_ms(5000);
-    APDS9960_init();
-    printf("\nPIO I2C Bus Scan\n");
-    printf("\nThis is part 8 with reading raw data from APDS9960.\n");
-    while (1)
-    {
-        int32_t proximity;
-        int32_t r, g, b, c;
-        readProximity(pio, sm, &proximity);
-        printf("proximity: %d\n", proximity);
-        readRGBC(pio, sm, &r, &g, &b, &c);
-        printf("Color: R:%d  G:%d  B:%d  C:%d\n", r, g, b, c);
-    }
 }
