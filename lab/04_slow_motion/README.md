@@ -7,6 +7,18 @@
 | 'slowdown' | replay in a slower speed|velocity = 0.5|
 | 'speed up' | replay in a faster speed|velocity = 2|
 | 'part' | replay only a part of original sequence|you could input any time slice you want|
+| 't' | record(in c)|Store the record sequence in a buffer|
+| 'p' | replay(in c)|Replay the latest recording in giving speed|
+## What it does
+We create two ways to record the boot button sequence and replay it. 
+
+1. Use python and C to record and replay, python will save the sequence into a `.txt` file, and you could replay it in any speed and could choose any part to replay. Since it stored in PC, you could define how long you want to record, like 10s, 50s....
+
+**Related folder:** `PC` and `sequencer`
+
+2. Only use C in rp2040, you could record the latest sequence, and repaly it in 2/3/4... speed. But since it records in buffer and the SRAM of RP2040 is limitted, you may not record too long time. But in this way, you do not need run another .py file.
+
+**Related folder:** `C`
 
 ## Demo
 
