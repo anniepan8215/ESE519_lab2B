@@ -8,19 +8,20 @@ You can now actually measure the timings you modeled in the last lab. Add APDS99
 
 Run this experiment in both dark and light room settings (record initial ambient brightness in each case). The Neopixel should start 'off' and the ADPS9960 should be initialized with your preferred sampling rate (you may want to try a few different rates). Run the experiment for at least 100 samples at brightness settings of 0%, 25%, 50%, 75%, 100% (making sure to give the ADPS reading enough time to 'settle' each time Neopixel is turned off).
 
-Report the observed 'jitter' based on misalignment with the free-running PWM module on the WS2012.
+Report the observed 'jitter' based on misalignment with the free-running PWM module on the WS2812.
 
 ### Logic:
 - color packet delivered to PIO module
-    1. APDS9960 -color packet/I2C-> RP2040
-    2. I2C -color packet-> PIO
-- bit delivered to WS2812 (24x/packet) GRB 8*3
-    1. PIO -> set neopixel ??
+    1. APDS9960 -color packet/I2C-> RP2040 -> buffer
+- bit delivered to WS2812 (24x/packet)
+    - start recording
 - full packet delivered to WS2812
-    1. color packet set neo pixel -> WS2812 
-    2. ws2812 bright
-- brightness changed on APDS 
-    1. APDS -> change 
+    - end recording
+- adjust brightness value with given value
+    - read the record from buffer
+    - change the value of brigheness with desired ratio
+- brightness changed on APDS neopixel 
+    1.RP2040 -I2C-> APDS neopixel
 
 ### Status:
 In processing......
