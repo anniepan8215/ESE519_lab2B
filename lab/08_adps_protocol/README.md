@@ -12,3 +12,6 @@ The demo is for proximity part is given as follows:
 
 ![](https://github.com/anniepan8215/ESE519_lab2B/blob/main/Media/lab9_proximity.gif)
 
+The RP2040 can interact with the APDS9960 to obtain the following data:
+
+![](https://github.com/anniepan8215/ESE519_lab2B/blob/main/Media/Part8_RGBC.png)
