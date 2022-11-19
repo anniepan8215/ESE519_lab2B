@@ -24,4 +24,9 @@ Report the observed 'jitter' based on misalignment with the free-running PWM mod
     1.RP2040 -I2C-> APDS neopixel
 
 ### Status:
-In processing......
+Compelete
+
+### Results:
+
+1. Color change
+![Color_change](/IMG_7221.gif)
