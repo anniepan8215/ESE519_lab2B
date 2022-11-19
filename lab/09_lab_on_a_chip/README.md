@@ -29,4 +29,4 @@ Compelete
 ### Results:
 
 1. Color change
-![Color_change](/IMG_7221.gif)
+![Color_change](IMG_7221.gif)
