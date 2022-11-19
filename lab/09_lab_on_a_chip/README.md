@@ -35,3 +35,9 @@ Compelete
 
 <img width="700" alt="jitter" src="https://user-images.githubusercontent.com/87698138/202828990-dc511a3c-42da-4f51-a69c-bafd30ea510e.png">
 
+<img width="700" alt="jitterr" src="https://user-images.githubusercontent.com/87698138/202829490-5b5e566f-2005-47c3-8dc9-4f83abe5b17c.png">
+
+**circuit**
+
+<img width="700" alt="circuit" src="https://user-images.githubusercontent.com/87698138/202829503-ddb6d2a7-bd7d-4e2c-b17d-14b3c00462c7.png">
+
