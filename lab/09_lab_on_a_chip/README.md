@@ -31,7 +31,7 @@ Compelete
 1. Color change </br>
 ![Color_change](IMG_7221.gif)
 
-2. Observed 'jitter' (use another RP2040 and run code `pioscope.c` to detect the SDA and SCL)
+2. Observed 'jitter' (use another RP2040 and run code `pioscope.c` in folder `pioscope` to detect the SDA and SCL)
 
 <img width="700" alt="jitter" src="https://user-images.githubusercontent.com/87698138/202828990-dc511a3c-42da-4f51-a69c-bafd30ea510e.png">
 
